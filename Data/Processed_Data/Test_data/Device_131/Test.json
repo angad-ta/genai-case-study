@@ -1,0 +1,191 @@
+{
+  "Data": [
+    {
+      "date": "2022-02-25",
+      "cpu_usage": 81.2616477,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-27",
+      "cpu_usage": 79.83339026,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-01",
+      "cpu_usage": 80.16255588,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-03",
+      "cpu_usage": 87.61027256,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-05",
+      "cpu_usage": 84.45367996,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-07",
+      "cpu_usage": 92.30938862,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-09",
+      "cpu_usage": 79.86243088,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-11",
+      "cpu_usage": 84.22471711,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-13",
+      "cpu_usage": 76.39819342,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-15",
+      "cpu_usage": 93.26441418,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-17",
+      "cpu_usage": 83.95926652,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-19",
+      "cpu_usage": 88.87550917,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-21",
+      "cpu_usage": 87.48010518,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-23",
+      "cpu_usage": 76.55159843,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-25",
+      "cpu_usage": 87.7612901,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-27",
+      "cpu_usage": 96.61201231,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-29",
+      "cpu_usage": 96.4550701,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-31",
+      "cpu_usage": 97.21477973,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-02",
+      "cpu_usage": 94.84151434,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-04",
+      "cpu_usage": 89.84461709,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-06",
+      "cpu_usage": 90.6243837,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-08",
+      "cpu_usage": 88.3231354,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-10",
+      "cpu_usage": 84.70211542,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-12",
+      "cpu_usage": 86.01892676,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-14",
+      "cpu_usage": 79.25926123,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-16",
+      "cpu_usage": 73.33453187,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-18",
+      "cpu_usage": 70.28298704,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-20",
+      "cpu_usage": 73.38673387,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-22",
+      "cpu_usage": 68.57489786,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-24",
+      "cpu_usage": 65.57705616,
+      "ram_usage": null,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains CPU usage information for a single user (serial number 9ad41cdcd1) over a period from 2/25/222 to 4/24/222. The CPU usage generally fluctuates between 65.58% and 97.21%, with a noticeable decrease in usage towards the end of the period.",
+      "insight_1": "1. CPU usage trend: The CPU usage for user 9ad41cdcd1 generally decreased over the given period, with the lowest usage of 65.58% on 4/24/222 and the highest usage of 97.21% on 3/31/222.\n\n2. High CPU usage days: The user experienced the highest CPU usage on three consecutive days - 3/27/222 (96.61%), 3/29/222 (96.45%), and 3/31/222 (97.21%).\n\n3. Decreasing CPU usage in April: In April, the CPU usage started to decrease, with the lowest usage of 65.58% on 4/24/222, which is a significant drop compared to the highest usage in March.",
+      "insight_2": "Based on the provided data, the top 3 aberrations in CPU usage are:\n\n1. The highest CPU usage of 97.21478 on 3/31/222.\n2. The second-highest CPU usage of 96.61212 on 3/27/222.\n3. The third-highest CPU usage of 96.4557 on 3/29/222."
+    }
+  ]
+}

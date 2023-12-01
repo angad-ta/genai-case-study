@@ -1,0 +1,131 @@
+{
+  "Data": [
+    {
+      "date": "2023-03-01",
+      "cpu_usage": 27.5665818663,
+      "ram_usage": 46.4984787383,
+      "diskio_usage": 6.3315084005
+    },
+    {
+      "date": "2023-03-02",
+      "cpu_usage": 28.6534464479,
+      "ram_usage": 71.1678211203,
+      "diskio_usage": 1.8806997458
+    },
+    {
+      "date": "2023-03-06",
+      "cpu_usage": 29.9887107519,
+      "ram_usage": 82.3982222943,
+      "diskio_usage": 2.3433977466
+    },
+    {
+      "date": "2023-03-07",
+      "cpu_usage": 25.4564359799,
+      "ram_usage": 80.0668761869,
+      "diskio_usage": 8.4548779124
+    },
+    {
+      "date": "2023-03-08",
+      "cpu_usage": 31.0022900477,
+      "ram_usage": 64.4624832141,
+      "diskio_usage": 11.9449662483
+    },
+    {
+      "date": "2023-03-09",
+      "cpu_usage": 37.0001085832,
+      "ram_usage": 75.574304351,
+      "diskio_usage": 3.4878258277
+    },
+    {
+      "date": "2023-03-10",
+      "cpu_usage": 24.8823181246,
+      "ram_usage": 56.2868368285,
+      "diskio_usage": 3.1334985554
+    },
+    {
+      "date": "2023-03-13",
+      "cpu_usage": 21.5410709685,
+      "ram_usage": 58.1648192629,
+      "diskio_usage": 2.682633842
+    },
+    {
+      "date": "2023-03-14",
+      "cpu_usage": 35.1879448918,
+      "ram_usage": 59.6860654475,
+      "diskio_usage": 7.0111929639
+    },
+    {
+      "date": "2023-03-15",
+      "cpu_usage": 26.2741791232,
+      "ram_usage": 59.0145676252,
+      "diskio_usage": 5.9960122752
+    },
+    {
+      "date": "2023-03-16",
+      "cpu_usage": 23.5406782068,
+      "ram_usage": 63.7469679105,
+      "diskio_usage": 2.3390155367
+    },
+    {
+      "date": "2023-03-17",
+      "cpu_usage": 34.6246067605,
+      "ram_usage": 67.7856161193,
+      "diskio_usage": 5.7777915791
+    },
+    {
+      "date": "2023-03-18",
+      "cpu_usage": 58.0316113331,
+      "ram_usage": 69.2953105533,
+      "diskio_usage": 3.327093403
+    },
+    {
+      "date": "2023-03-20",
+      "cpu_usage": 27.1711928974,
+      "ram_usage": 65.4369041229,
+      "diskio_usage": 5.0665298984
+    },
+    {
+      "date": "2023-03-21",
+      "cpu_usage": 34.5046438939,
+      "ram_usage": 65.7247173285,
+      "diskio_usage": 3.4535850373
+    },
+    {
+      "date": "2023-03-23",
+      "cpu_usage": 26.4339836393,
+      "ram_usage": 53.1898605336,
+      "diskio_usage": 4.6747676419
+    },
+    {
+      "date": "2023-03-24",
+      "cpu_usage": 22.8726552179,
+      "ram_usage": 57.6509605199,
+      "diskio_usage": 1.2452154299
+    },
+    {
+      "date": "2023-03-26",
+      "cpu_usage": 21.5614466554,
+      "ram_usage": 62.6440838641,
+      "diskio_usage": 8.5646433523
+    },
+    {
+      "date": "2023-03-27",
+      "cpu_usage": 29.4894133678,
+      "ram_usage": 56.6987109026,
+      "diskio_usage": 5.0722008791
+    },
+    {
+      "date": "2023-03-30",
+      "cpu_usage": 65.2463750479,
+      "ram_usage": 51.5041794901,
+      "diskio_usage": 43.6703586794
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains computer usage information for a specific user, including CPU, RAM, and disk IO usage on different dates. It shows varying levels of resource usage, with the highest CPU usage on 223-3-3 and highest RAM usage on 223-3-6.",
+      "insight_1": "1. The highest CPU usage was recorded on 223-3-3 at 65.25%, which is significantly higher than the average CPU usage across all days.\n2. The highest RAM usage occurred on 223-3-6 at 82.4%, while the lowest RAM usage was on 223-3-3 at 51.5%.\n3. The highest disk IO usage was also on 223-3-3 at 43.67%, which is considerably higher than the disk IO usage on other days.",
+      "insight_2": "1. The highest CPU usage is observed on 223-3-3 with a value of 65.246375, which is significantly higher than the average CPU usage in the dataset.\n2. The highest RAM usage is observed on 223-3-6 with a value of 82.398222, which is considerably higher than the average RAM usage in the dataset.\n3. The highest disk IO usage is observed on 223-3-3 with a value of 43.67359, which is significantly higher than the average disk IO usage in the dataset."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, specifically CPU usage over time. It shows a general increasing trend in CPU usage from 14.41% on 5/24/222 to 37.21% on 7/2/222.","1. CPU usage increase: The CPU usage for the user with serial number 519dc433ef has been consistently increasing over time, from 14.41% on 5/24/222 to 37.21% on 7/2/222.
+
+2. Highest CPU usage: The highest CPU usage recorded was 37.21% on 7/2/222.
+
+3. Lowest CPU usage: The lowest CPU usage recorded was 14.41% on 5/24/222.","Based on the provided data, the top 3 aberrations in CPU usage are as follows:
+
+1. The CPU usage increased significantly from 22.475437 on 6/14/222 to 25.33396 on 6/17/222, with a difference of 2.854959.
+2. The CPU usage jumped from 31.134779 on 7/8/222 to 32.97521 on 7/11/222, with a difference of 1.835742.
+3. The CPU usage rose from 35.234969 on 7/17/222 to 37.2127 on 7/2/222, with a difference of 1.97558."

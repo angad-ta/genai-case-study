@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains disk IO usage information for a single user (e9ad8e76) over a period from January 24th to March 23rd, 222. It shows fluctuations in disk IO usage, with the highest usage at 13.86357 on March 23rd and the lowest at 2.447444 on February 15th.","1. The highest disk IO usage was recorded on 3/23/222 with a value of 13.86357.
+2. The lowest disk IO usage occurred on 2/15/222 with a value of 2.447444.
+3. The disk IO usage shows an overall increasing trend from 1/24/222 to 3/23/222, with more frequent high usage values in March compared to earlier months.","Based on the provided data, the top 3 aberrations in diskio_usage are:
+
+1. 13.86357 on 3/23/222
+2. 11.93624 on 2/17/222
+3. 11.411 on 3/21/222"

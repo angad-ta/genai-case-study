@@ -1,0 +1,89 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 6.0751247986,
+      "ram_usage": 67.6460306813,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 14.257502082,
+      "ram_usage": 72.4683047915,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-05",
+      "cpu_usage": 9.7551633089,
+      "ram_usage": 69.422266511,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 11.1884278599,
+      "ram_usage": 72.5996499792,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 9.7143325944,
+      "ram_usage": 68.5426476255,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 9.0755488366,
+      "ram_usage": 70.9855482327,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 11.3805313384,
+      "ram_usage": 69.9647125557,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 11.1456332577,
+      "ram_usage": 77.5051032757,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 13.0085991062,
+      "ram_usage": 78.5863570771,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 10.6534062929,
+      "ram_usage": 75.4105151188,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 12.415094677,
+      "ram_usage": 79.7883444387,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 10.9159044714,
+      "ram_usage": 76.878474347,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 14.9479705954,
+      "ram_usage": 81.8544322814,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage on specific dates. It shows varying levels of CPU and RAM usage, with missing disk IO usage data.",
+      "insight_1": "1. Disk IO Usage Missing: The diskio_usage data is missing for all the entries in the given dataset. This might indicate an issue with data collection or reporting.\n\n2. Increasing RAM Usage Trend: The RAM usage shows an increasing trend over time, starting from 67.65% on 222-8-1 and reaching 81.85% on 222-8-3. This could indicate a potential issue with memory management or increasing workload on the computer.\n\n3. CPU Usage Variability: The CPU usage varies significantly across the dates, with the lowest value being 6.8% on 222-8-1 and the highest value being 14.95% on 222-8-3. This suggests that the computer's workload and processing demands are not consistent over time.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This indicates that there might be an issue with data collection or recording for this particular field.\n\n2. High RAM Usage: The 'ram_usage' column shows consistently high values, ranging from 67.65% to 81.85%. This could indicate that the computer is running memory-intensive applications or there might be an issue with the system's memory management.\n\n3. CPU Usage Variability: The 'cpu_usage' column shows a wide range of values, from 6.8% to 14.95%. This suggests that the computer's CPU usage is not consistent and might be experiencing fluctuations due to varying workloads or potential performance issues."
+    }
+  ]
+}

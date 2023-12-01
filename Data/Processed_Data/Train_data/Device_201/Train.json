@@ -1,0 +1,167 @@
+{
+  "Data": [
+    {
+      "date": "2022-06-25",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 25.21221294
+    },
+    {
+      "date": "2022-06-26",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 23.22119106
+    },
+    {
+      "date": "2022-06-27",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 23.84215054
+    },
+    {
+      "date": "2022-06-28",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 30.95391138
+    },
+    {
+      "date": "2022-06-29",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 33.28603583
+    },
+    {
+      "date": "2022-06-30",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 41.68557088
+    },
+    {
+      "date": "2022-07-01",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 43.31891103
+    },
+    {
+      "date": "2022-07-02",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 47.46795984
+    },
+    {
+      "date": "2022-07-03",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 49.74945541
+    },
+    {
+      "date": "2022-07-04",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 56.17948467
+    },
+    {
+      "date": "2022-07-05",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 57.35132665
+    },
+    {
+      "date": "2022-07-06",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 61.76820104
+    },
+    {
+      "date": "2022-07-07",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 66.19978868
+    },
+    {
+      "date": "2022-07-08",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 67.08407507
+    },
+    {
+      "date": "2022-07-09",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 71.81642781
+    },
+    {
+      "date": "2022-07-10",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 68.90060352
+    },
+    {
+      "date": "2022-07-11",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 73.01159422
+    },
+    {
+      "date": "2022-07-12",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 82.0092532
+    },
+    {
+      "date": "2022-07-13",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 87.48127043
+    },
+    {
+      "date": "2022-07-14",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 88.63935957
+    },
+    {
+      "date": "2022-07-15",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 89.62011573
+    },
+    {
+      "date": "2022-07-16",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 93.65651626
+    },
+    {
+      "date": "2022-07-17",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 92.38979474
+    },
+    {
+      "date": "2022-07-18",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 86.33175791
+    },
+    {
+      "date": "2022-07-19",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 98.68220482
+    },
+    {
+      "date": "2022-07-20",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 96.7779558
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains daily disk IO usage for a computer with the serial number 'ee7d53dc1' from June 25, 222, to July 2, 222. It shows an overall increasing trend in disk IO usage over the period, with the highest usage recorded on July 19, 222, at 98.68225.",
+      "insight_1": "1. Increasing Disk IO Usage Trend: The disk IO usage for the user with serial number 'ee7d53dc1' has been consistently increasing over the given date range (from 6/25/222 to 7/2/222). It started at 25.21 on 6/25/222 and reached 96.78 on 7/2/222.\n\n2. Highest Disk IO Usage: The highest disk IO usage recorded during this period was 98.68 on 7/19/222.\n\n3. Rapid Growth in Disk IO Usage: The most significant growth in disk IO usage occurred between 7/11/222 and 7/13/222, where it increased from 73.1 to 87.48, a jump of 14.47 units in just two days.",
+      "insight_2": "1. Rapid increase in diskio_usage: The disk io usage shows a significant increase from 25.21 on 6/25/222 to 96.78 on 7/2/222, with the highest value being 98.68 on 7/19/222.\n\n2. High diskio_usage values: The top 3 highest disk io usage values are 98.68 (7/19/222), 96.78 (7/2/222), and 93.66 (7/16/222).\n\n3. Sudden drop in diskio_usage: There is a noticeable drop in disk io usage from 92.39 on 7/17/222 to 86.33 on 7/18/222, which is a decrease of 6.6 units."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "Data": [
+    {
+      "date": "2022-07-31",
+      "cpu_usage": 77.0843067035,
+      "ram_usage": 86.8529169577,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 99.3400965076,
+      "ram_usage": 88.2589142235,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 99.9990054245,
+      "ram_usage": 89.1634338107,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 99.9927009617,
+      "ram_usage": 89.2740438337,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 58.7471731416,
+      "ram_usage": 83.9049668073,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 25.6994680287,
+      "ram_usage": 86.4214685945,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 41.2794106635,
+      "ram_usage": 87.1900826074,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-13",
+      "cpu_usage": 55.266539749,
+      "ram_usage": 87.2481282219,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-14",
+      "cpu_usage": 73.8273963158,
+      "ram_usage": 87.2890827428,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 89.6360428124,
+      "ram_usage": 87.3360201989,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 15.3806817346,
+      "ram_usage": 85.2988832585,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 37.6982765481,
+      "ram_usage": 85.7165732263,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-20",
+      "cpu_usage": 60.7555516662,
+      "ram_usage": 87.9202480899,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-21",
+      "cpu_usage": 55.4794518757,
+      "ram_usage": 87.2274767652,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 49.4882175546,
+      "ram_usage": 83.9056778664,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 29.5719939953,
+      "ram_usage": 87.2646059374,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 47.4191751498,
+      "ram_usage": 88.7835568241,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-27",
+      "cpu_usage": 14.4042633627,
+      "ram_usage": 83.4521731352,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-28",
+      "cpu_usage": 17.4671172631,
+      "ram_usage": 78.936427873,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 16.2231299394,
+      "ram_usage": 86.4737876482,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 31.5490976173,
+      "ram_usage": 85.232078756,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates. It shows fluctuations in CPU and RAM usage, while disk IO usage is not available (NaN).",
+      "insight_1": "1. High CPU Usage: The computer experienced high CPU usage on three occasions: 99.34% on 222-8-1, 99.99% on 222-8-2, and 99.99% on 222-8-3. This indicates that the computer was under heavy load during these days.\n\n2. Consistently High RAM Usage: Throughout the entire period, the RAM usage remained consistently high, ranging from 78.94% to 89.27%. This suggests that the computer may benefit from additional memory or optimization of running applications.\n\n3. Missing Disk IO Usage Data: The diskio_usage data is missing (NaN) for all the entries. This information is crucial for understanding the overall performance of the computer and should be collected and analyzed in the future.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This indicates that there might be an issue with data collection or recording for this particular field.\n\n2. High CPU Usage: The CPU usage reaches up to 99.99% on 222-8-2 and remains consistently high on 222-8-1 and 222-8-3, with values of 99.34% and 99.99% respectively. This could indicate a potential issue with the computer or a resource-intensive task being performed during these dates.\n\n3. Fluctuating CPU Usage: The CPU usage varies significantly throughout the dataset, with values ranging from as low as 14.4% on 222-8-27 to as high as 99.99% on 222-8-2. This fluctuation might be worth investigating to understand the reasons behind such variations in CPU usage."
+    }
+  ]
+}

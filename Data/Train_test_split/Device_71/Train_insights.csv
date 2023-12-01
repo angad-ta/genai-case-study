@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time in March 223. It shows varying levels of resource usage, with some days having significantly higher CPU and disk IO usage than others.","1. The highest resource usage day: On 223-3-13, the computer experienced its highest CPU usage (22.53%), RAM usage (87.59%), and disk IO usage (21.19%) during the given period. This day might have had intensive tasks running, which could be worth investigating.
+
+2. Significant drop in RAM usage on 223-3-19: There was a substantial decrease in RAM usage (49.%) compared to the surrounding days, which had RAM usage consistently above 75%. This could indicate that fewer or less resource-intensive applications were running on this day.
+
+3. Gradual increase in CPU usage towards the end of the month: From 223-3-2 to 223-3-3, there was a general upward trend in CPU usage, with the highest value being 11.84% on 223-3-3. This might suggest an increase in computing demands or more resource-intensive tasks being performed during this period.","1. On 223-3-13, there is a significant spike in CPU usage at 22.53% and disk IO usage at 21.19%, which are much higher than the average values observed in the dataset.
+
+2. On 223-3-17, the CPU usage reaches 2.78%, and the disk IO usage is at 14.77%, both of which are notably higher compared to other days.
+
+3. On 223-3-19, there is a drastic drop in RAM usage to 49.%, which is significantly lower than the average RAM usage observed in the dataset."

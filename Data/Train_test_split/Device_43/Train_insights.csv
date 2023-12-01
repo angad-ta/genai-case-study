@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a computer's CPU, RAM, and disk IO usage for a user with serial number 41f21185d during August 222. It shows varying levels of resource usage, with the highest CPU usage at 92.78%, RAM usage at 51.9%, and missing disk IO usage data.","1. High CPU Usage: The computer experienced high CPU usage on several days, with the highest usage recorded at 92.81% on August 25th, 222.
+
+2. RAM Usage Spike: On August 18th, 222, there was a significant spike in RAM usage, reaching 51.9%, which is much higher than the average RAM usage observed during the month.
+
+3. Low Disk IO Usage: The disk IO usage data is missing (NaN) for all the entries, indicating that this information is either not being recorded or there is an issue with the data collection process.","1. High CPU usage: The CPU usage shows significant spikes on certain days, with the highest values being 92.78% on 222-8-25, 92.31% on 222-8-2, and 92.12% on 222-8-21.
+
+2. High RAM usage: The RAM usage also shows a considerable increase on some days, with the highest value being 51.9% on 222-8-18.
+
+3. Missing diskio_usage data: The diskio_usage column has no data (NaN) for all the entries in the dataset, indicating that this information is missing or not recorded."

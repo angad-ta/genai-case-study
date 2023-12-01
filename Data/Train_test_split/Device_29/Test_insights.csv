@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains daily computer usage information for a single user, including CPU, RAM, and disk IO usage. It shows fluctuations in usage, with a noticeable decrease in CPU and RAM usage from March 24th to 27th.","1. CPU usage fluctuation: The CPU usage shows significant fluctuations throughout the month, with the highest usage at 43.44% on 223-3-2 and the lowest at 6.12% on 223-3-25. This indicates that the user's computer activities vary greatly, possibly due to different tasks or workloads.
+
+2. RAM usage increase: There is a general increase in RAM usage from the beginning to the end of the month, starting at 48.72% on 223-3-1 and reaching a peak of 61.63% on 223-3-23. This suggests that the user's computer might be running more memory-intensive applications or tasks as the month progresses.
+
+3. Disk IO usage consistency: The disk IO usage remains relatively consistent throughout the month, with most values ranging between 1.1 and 1.5. This indicates that the user's disk IO activities are relatively stable and do not experience significant fluctuations like CPU and RAM usage.","1. On 223-3-24, there is a significant drop in CPU usage to 6.35% and RAM usage to 26.18%, which is much lower compared to the previous days.
+2. On 223-3-23, the RAM usage reaches its highest point at 61.63%, while the CPU usage is only 16.52%, indicating a potential imbalance in resource utilization.
+3. On 223-3-17, the disk IO usage spikes to its highest value at 1.75, while the CPU usage is at 23.26% and RAM usage at 6.38%, suggesting a possible increase in disk-intensive tasks on that day."

@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "table": [
+      {
+        "cpu_usage": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "date": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "diskio_usage": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "ram_usage": {
+          "dtype": "float64",
+          "_type": "Value"
+        }
+      }
+    ],
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

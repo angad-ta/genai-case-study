@@ -1,0 +1,6 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's daily RAM usage on their computer from January 26th to February 1th, 222. It shows that the RAM usage fluctuates, with the highest usage at 97.59% on February 7th and the lowest at 75.44% on February 1st.","1. The highest RAM usage was recorded on 2/7/222 with 97.586335%.
+2. The lowest RAM usage occurred on 2/1/222 with 75.437221%.
+3. The average RAM usage over the given period is approximately 85.5%, indicating a consistently high level of resource utilization.","1. The highest RAM usage was observed on 2/7/222 with a value of 97.586335.
+2. The second-highest RAM usage occurred on 1/26/222 with a value of 96.142425.
+3. The third-highest RAM usage was recorded on 2/8/222 with a value of 94.223698."

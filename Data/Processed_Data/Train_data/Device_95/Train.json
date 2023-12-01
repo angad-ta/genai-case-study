@@ -1,0 +1,131 @@
+{
+  "Data": [
+    {
+      "date": "2023-02-28",
+      "cpu_usage": 61.6544342321,
+      "ram_usage": 56.3132895705,
+      "diskio_usage": 2.136247168
+    },
+    {
+      "date": "2023-03-01",
+      "cpu_usage": 63.1184111545,
+      "ram_usage": 54.6514894619,
+      "diskio_usage": 2.5958876797
+    },
+    {
+      "date": "2023-03-02",
+      "cpu_usage": 29.9439658739,
+      "ram_usage": 34.7694468436,
+      "diskio_usage": 1.7540832796
+    },
+    {
+      "date": "2023-03-03",
+      "cpu_usage": 38.7790674406,
+      "ram_usage": 47.8648610158,
+      "diskio_usage": 1.3527453344
+    },
+    {
+      "date": "2023-03-04",
+      "cpu_usage": 35.6635836709,
+      "ram_usage": 50.2586859621,
+      "diskio_usage": 1.5268214573
+    },
+    {
+      "date": "2023-03-05",
+      "cpu_usage": 30.0898204895,
+      "ram_usage": 49.2591881435,
+      "diskio_usage": 0.9230181599
+    },
+    {
+      "date": "2023-03-06",
+      "cpu_usage": 41.1465758091,
+      "ram_usage": 51.6625280279,
+      "diskio_usage": 2.3938689067
+    },
+    {
+      "date": "2023-03-07",
+      "cpu_usage": 49.9899927294,
+      "ram_usage": 52.5960488264,
+      "diskio_usage": 1.8431752198
+    },
+    {
+      "date": "2023-03-08",
+      "cpu_usage": 40.8736021996,
+      "ram_usage": 55.2506542876,
+      "diskio_usage": 1.8135183594
+    },
+    {
+      "date": "2023-03-09",
+      "cpu_usage": 43.7784183852,
+      "ram_usage": 59.3205221945,
+      "diskio_usage": 1.4608878415
+    },
+    {
+      "date": "2023-03-10",
+      "cpu_usage": 52.3350834355,
+      "ram_usage": 62.8373631846,
+      "diskio_usage": 4.1498568166
+    },
+    {
+      "date": "2023-03-13",
+      "cpu_usage": 59.2551610321,
+      "ram_usage": 57.8663361331,
+      "diskio_usage": 3.362693147
+    },
+    {
+      "date": "2023-03-15",
+      "cpu_usage": 68.9575881978,
+      "ram_usage": 59.7749848687,
+      "diskio_usage": 1.9925100124
+    },
+    {
+      "date": "2023-03-17",
+      "cpu_usage": 71.162590172,
+      "ram_usage": 59.0143591708,
+      "diskio_usage": 2.4577222214
+    },
+    {
+      "date": "2023-03-20",
+      "cpu_usage": 68.3520269249,
+      "ram_usage": 53.8934103634,
+      "diskio_usage": 2.5795689492
+    },
+    {
+      "date": "2023-03-21",
+      "cpu_usage": 67.664007461,
+      "ram_usage": 57.0501051263,
+      "diskio_usage": 2.7577812536
+    },
+    {
+      "date": "2023-03-23",
+      "cpu_usage": 71.3211090971,
+      "ram_usage": 57.026255767,
+      "diskio_usage": 2.195592663
+    },
+    {
+      "date": "2023-03-24",
+      "cpu_usage": 67.2680968256,
+      "ram_usage": 57.4386369978,
+      "diskio_usage": 2.6356482157
+    },
+    {
+      "date": "2023-03-26",
+      "cpu_usage": 71.2017672638,
+      "ram_usage": 57.1267091509,
+      "diskio_usage": 3.8451089993
+    },
+    {
+      "date": "2023-03-27",
+      "cpu_usage": 69.2232117114,
+      "ram_usage": 57.1004704306,
+      "diskio_usage": 4.9099016185
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time. It shows varying levels of resource usage, with some days having higher CPU and RAM usage than others.",
+      "insight_1": "1. CPU usage shows an increasing trend over the period, with the highest usage recorded on 223-3-17 at 71.16%. This indicates that the computer's processing power is being utilized more over time.\n\n2. RAM usage also shows an increasing trend, reaching its peak on 223-3-1 at 62.84%. This suggests that the computer is handling more memory-intensive tasks or running more applications simultaneously as time progresses.\n\n3. Disk IO usage is relatively low compared to CPU and RAM usage, with the highest value recorded on 223-3-27 at 4.91%. However, it is worth noting that there is a significant spike in disk IO usage between 223-3-9 and 223-3-1, and again between 223-3-26 and 223-3-27. This could indicate occasional heavy disk activity, such as large file transfers or software installations.",
+      "insight_2": "1. Highest CPU usage: On 223-3-17, the CPU usage reached its peak at 71.16259.\n2. Highest RAM usage: On 223-3-1, the RAM usage was at its highest at 62.837363.\n3. Highest Disk IO usage: On 223-3-27, the disk IO usage reached its maximum value of 4.9992."
+    }
+  ]
+}

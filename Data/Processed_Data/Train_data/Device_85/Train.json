@@ -1,0 +1,197 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 4.6942124543,
+      "ram_usage": 87.0262705478,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 4.5743438474,
+      "ram_usage": 85.5309031657,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 4.8081116701,
+      "ram_usage": 84.9907478199,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-04",
+      "cpu_usage": 4.7987810792,
+      "ram_usage": 84.9698582995,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-05",
+      "cpu_usage": 4.848544939,
+      "ram_usage": 85.8125475787,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-06",
+      "cpu_usage": 5.1676472598,
+      "ram_usage": 87.0449136236,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-07",
+      "cpu_usage": 5.1320765665,
+      "ram_usage": 87.2676910294,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 4.778843779,
+      "ram_usage": 86.7537266064,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 4.6035611034,
+      "ram_usage": 83.5422179664,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 4.4462111171,
+      "ram_usage": 80.1467251627,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-11",
+      "cpu_usage": 4.5755320877,
+      "ram_usage": 84.3879000539,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 3.9951994041,
+      "ram_usage": 74.3164486249,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-13",
+      "cpu_usage": 4.6538001435,
+      "ram_usage": 80.8590416294,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-14",
+      "cpu_usage": 4.4114720016,
+      "ram_usage": 83.9148027706,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 4.3124959557,
+      "ram_usage": 85.2196075815,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 4.2990240168,
+      "ram_usage": 84.7880160864,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 4.3540887901,
+      "ram_usage": 85.3090550966,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 4.2356054475,
+      "ram_usage": 84.7763598094,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 4.2523800343,
+      "ram_usage": 85.765378023,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-20",
+      "cpu_usage": 4.4406014268,
+      "ram_usage": 86.2823619881,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-21",
+      "cpu_usage": 4.4901793476,
+      "ram_usage": 87.4370948063,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 4.309410056,
+      "ram_usage": 86.5653126352,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 6.3554900539,
+      "ram_usage": 85.310471313,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 4.3209312931,
+      "ram_usage": 86.5839636461,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 4.4395893729,
+      "ram_usage": 87.3704418316,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 4.5991282451,
+      "ram_usage": 87.8474930638,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-27",
+      "cpu_usage": 4.1128163523,
+      "ram_usage": 87.9801941435,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-28",
+      "cpu_usage": 4.1844146929,
+      "ram_usage": 88.5344213072,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 4.1485046284,
+      "ram_usage": 88.27016081,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 4.2224595104,
+      "ram_usage": 87.5812960502,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 4.3318391986,
+      "ram_usage": 87.226507831,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a month. It shows that the CPU usage remains relatively stable, while RAM usage fluctuates between 74% and 88% with no disk IO usage recorded.",
+      "insight_1": "1. High RAM Usage: The RAM usage for the user with serial number 651199981c is consistently high throughout the month, ranging from 74.32% to 88.53%. This indicates that the user's computer might be running memory-intensive applications or facing memory management issues.\n\n2. Low CPU Usage: Despite the high RAM usage, the CPU usage remains relatively low, ranging from 3.99% to 6.36%. This suggests that the user's computer may not be fully utilizing its processing power or running CPU-intensive tasks.\n\n3. Missing Disk IO Usage Data: The diskio_usage data is missing (NaN) for all the entries in the table. This makes it impossible to analyze the disk input/output usage for the user's computer. It is essential to investigate the reason behind the missing data and fix the issue to gain insights into disk performance.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This indicates that there might be an issue with data collection or recording for this particular metric.\n\n2. CPU Usage Spike: On 222-8-23, there is a significant spike in CPU usage (6.35549) compared to the rest of the days in the dataset. This could indicate an unusual event or increased workload on that specific day.\n\n3. RAM Usage Fluctuation: The RAM usage fluctuates throughout the dataset, with the lowest value being 74.316449 on 222-8-12 and the highest value being 88.534421 on 222-8-28. This variation might be due to different workloads or applications being used on different days."
+    }
+  ]
+}

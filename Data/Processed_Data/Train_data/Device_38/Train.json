@@ -1,0 +1,197 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 1.2998936024,
+      "ram_usage": 11.3409179759,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 2.2745446449,
+      "ram_usage": 11.6898775738,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 2.43954952,
+      "ram_usage": 10.6611123078,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-04",
+      "cpu_usage": 2.4822365239,
+      "ram_usage": 10.6834557116,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-05",
+      "cpu_usage": 1.6494086753,
+      "ram_usage": 10.6820134624,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-06",
+      "cpu_usage": 3.1351204202,
+      "ram_usage": 10.5016024513,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-07",
+      "cpu_usage": 1.251213195,
+      "ram_usage": 10.5611991463,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 2.749541855,
+      "ram_usage": 10.5817056432,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 2.5239149604,
+      "ram_usage": 10.5243749564,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 2.4984570409,
+      "ram_usage": 10.5101191514,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-11",
+      "cpu_usage": 1.5067089306,
+      "ram_usage": 11.1170465489,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 2.3263209013,
+      "ram_usage": 10.8185926522,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-13",
+      "cpu_usage": 2.3661239371,
+      "ram_usage": 10.8221373818,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-14",
+      "cpu_usage": 1.3194568117,
+      "ram_usage": 10.4821213319,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 2.3204184809,
+      "ram_usage": 10.903037714,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 2.2664930962,
+      "ram_usage": 10.960245811,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 2.2664930962,
+      "ram_usage": 10.960245811,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 2.2392799431,
+      "ram_usage": 10.9318634377,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 2.2283422353,
+      "ram_usage": 10.7042542308,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-20",
+      "cpu_usage": 2.3453801277,
+      "ram_usage": 10.8342806655,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-21",
+      "cpu_usage": 1.5403213482,
+      "ram_usage": 10.2811470751,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 2.2980389311,
+      "ram_usage": 10.8046839684,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 2.2277652111,
+      "ram_usage": 10.800983706,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 1.9066814434,
+      "ram_usage": 10.7005552483,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 1.7223551679,
+      "ram_usage": 10.6718625329,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 1.9732504632,
+      "ram_usage": 10.533368141,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-27",
+      "cpu_usage": 1.9378033449,
+      "ram_usage": 10.9666157425,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-28",
+      "cpu_usage": 1.5348659594,
+      "ram_usage": 10.2049677989,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 2.3004749254,
+      "ram_usage": 10.7685417706,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 1.958033116,
+      "ram_usage": 10.5783332104,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 2.2593211949,
+      "ram_usage": 10.787056903,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a month (August 222). It shows varying levels of CPU and RAM usage, while disk IO usage is missing (NaN) for all entries.",
+      "insight_1": "1. Disk IO usage data is missing: The diskio_usage column has no data (NaN) for all the entries. This might indicate an issue with data collection or reporting.\n\n2. CPU usage fluctuation: The CPU usage varies between 1.25 and 3.14 over the month, with the highest usage on August 6th (3.13512) and the lowest on August 7th (1.251213). This indicates that the user's CPU usage is not consistent and might be influenced by different tasks or applications.\n\n3. RAM usage remains relatively stable: The RAM usage ranges from 1.2 to 11.7, with the highest usage on August 2nd (11.689878) and the lowest on August 28th (1.24968). Overall, the RAM usage remains relatively stable throughout the month, suggesting that the user's activities may not require significant changes in memory consumption.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing data (NaN) for all the entries in the dataset. This might indicate an issue with data collection or recording.\n\n2. CPU Usage Variation: The CPU usage varies significantly throughout the dataset, with the minimum value being 1.251213 and the maximum value being 3.13512. This could indicate inconsistent computer usage patterns or potential performance issues.\n\n3. RAM Usage Variation: The RAM usage also shows variation in the dataset, with the minimum value being 1.24968 and the maximum value being 11.689878. This might suggest different types of tasks being performed on the computer, leading to varying RAM usage."
+    }
+  ]
+}

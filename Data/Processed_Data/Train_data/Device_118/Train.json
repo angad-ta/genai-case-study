@@ -1,0 +1,137 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 10.3699332676,
+      "ram_usage": 27.9802418185,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 8.4508708854,
+      "ram_usage": 30.4692409363,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-04",
+      "cpu_usage": 9.0555761746,
+      "ram_usage": 28.8714535717,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-05",
+      "cpu_usage": 8.0242769096,
+      "ram_usage": 30.5874568068,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 11.0161334171,
+      "ram_usage": 30.0351851268,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 7.6549656534,
+      "ram_usage": 23.5151833693,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-11",
+      "cpu_usage": 11.5328336695,
+      "ram_usage": 27.8843989962,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 7.5658764464,
+      "ram_usage": 29.0065495955,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-13",
+      "cpu_usage": 6.1294523879,
+      "ram_usage": 29.8131116475,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-14",
+      "cpu_usage": 5.9782095242,
+      "ram_usage": 32.875901158,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 8.8347423127,
+      "ram_usage": 32.3961972828,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 8.2878788202,
+      "ram_usage": 29.3900036013,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 9.8306216994,
+      "ram_usage": 28.3984698936,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 7.7620621052,
+      "ram_usage": 33.4090421376,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 8.3766886831,
+      "ram_usage": 26.5395349556,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 7.1891545596,
+      "ram_usage": 27.5253785523,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 9.1321349506,
+      "ram_usage": 23.2814007178,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 7.3618854872,
+      "ram_usage": 29.623675907,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 5.7684280585,
+      "ram_usage": 26.1475789217,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 9.1860062802,
+      "ram_usage": 25.7700787962,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 10.1858245378,
+      "ram_usage": 27.0814752498,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 222. It shows varying levels of resource usage, with no disk IO usage data available.",
+      "insight_1": "1. Inconsistent Disk IO Usage Data: The diskio_usage column has no data (NaN) for all the entries in the given dataset. This indicates that there might be an issue with data collection or reporting for this metric.\n\n2. CPU Usage Variation: The CPU usage varies between 5.77% and 11.53% throughout the month of August 222. The highest CPU usage was recorded on August 11th (11.53%), while the lowest was on August 26th (5.77%).\n\n3. RAM Usage Trend: The RAM usage ranges from 23.28% to 33.41% during the same period. The highest RAM usage was observed on August 18th (33.41%), and the lowest was on August 24th (23.28%).",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This might indicate an issue with data collection or an error in the data source.\n\n2. CPU Usage Variation: The CPU usage varies significantly across the dataset, with the minimum value being 5.768428 and the maximum value being 11.532834. This could indicate fluctuations in the user's computer usage or potential performance issues.\n\n3. RAM Usage Variation: The RAM usage also shows considerable variation, with the minimum value being 23.28141 and the maximum value being 33.4942. Similar to CPU usage, this could be due to the user's varying computer usage or potential performance issues."
+    }
+  ]
+}

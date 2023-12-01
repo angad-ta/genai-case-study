@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a month (August 222). It shows varying levels of resource usage, with missing data for disk IO usage.","1. Missing Data: The 'diskio_usage' column has missing data (NaN) for all the entries in the given dataset. This might require further investigation or data cleaning.
+
+2. CPU Usage Trend: The CPU usage shows a slight increase from 3.175875 on 222-8-1 to 3.654914 on 222-8-31. The highest CPU usage was recorded on 222-8-1 at 4.63373.
+
+3. RAM Usage Fluctuations: The RAM usage fluctuates throughout the month, with the lowest usage of 14.6285 on 222-8-19 and the highest usage of 23.52613 on 222-8-26.","1. Missing Data: The 'diskio_usage' column has missing data (NaN) for all the entries in the given dataset. This could lead to inaccurate analysis and insights.
+
+2. High RAM Usage: On 222-8-26 and 222-8-27, the RAM usage is significantly higher (23.52613 and 23.158673) compared to the rest of the days in the dataset.
+
+3. CPU Usage Spike: On 222-8-1, there is a noticeable spike in CPU usage (4.63373) compared to the other days in the dataset."

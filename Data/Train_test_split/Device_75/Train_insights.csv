@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage for each day in August 222. It shows varying levels of resource usage, with some days having higher CPU and RAM usage than others, while disk IO usage data is missing.","1. High CPU Usage Days: The user experienced the highest CPU usage on August 3th (49.73%), August 1th (48.33%), and August 5th (48.18%). These days might indicate heavy workloads or resource-intensive tasks being performed on the computer.
+
+2. Low RAM Usage Days: The lowest RAM usage occurred on August 7th (24.4%), August 6th (27.15%), and August 8th (26.52%). These days might represent lighter workloads or periods of inactivity on the computer.
+
+3. Disk IO Usage: The disk io usage data is missing (NaN) for all the dates in the given dataset. This information is crucial for understanding the overall performance of the computer, and it is recommended to investigate the reason for the missing data and update the dataset accordingly.","1. High CPU usage: The highest CPU usage recorded is 49.73% on 222-8-3, followed by 48.33% on 222-8-1 and 48.18% on 222-8-5.
+
+2. High RAM usage: The highest RAM usage recorded is 42.66% on 222-8-3, followed by 42.35% on 222-8-27 and 41.64% on 222-8-29.
+
+3. Missing diskio_usage data: The diskio_usage column has no data (NaN) for all the entries in the dataset."

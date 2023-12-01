@@ -1,0 +1,125 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 21.8077154654,
+      "ram_usage": 70.5147944258,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 31.5902923973,
+      "ram_usage": 74.9759854015,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 21.6296265976,
+      "ram_usage": 78.358860219,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-04",
+      "cpu_usage": 15.045025065,
+      "ram_usage": 68.0716107458,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-05",
+      "cpu_usage": 15.806581169,
+      "ram_usage": 70.9257317775,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 21.7805520636,
+      "ram_usage": 75.2859580599,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 18.3418494264,
+      "ram_usage": 71.1371854153,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 16.9366703489,
+      "ram_usage": 75.7404808899,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 15.2370414889,
+      "ram_usage": 70.8789068091,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 22.3665037681,
+      "ram_usage": 76.8791309166,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 17.4473156275,
+      "ram_usage": 82.0831432117,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 16.9125176347,
+      "ram_usage": 84.6356640956,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 13.5423789948,
+      "ram_usage": 81.2209925169,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 18.6394687775,
+      "ram_usage": 77.5597989952,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 21.0392133857,
+      "ram_usage": 75.3572280628,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 11.7364245113,
+      "ram_usage": 73.8967440973,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 20.6642134239,
+      "ram_usage": 80.1812215922,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 15.5410503911,
+      "ram_usage": 78.9910606287,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 21.1176621533,
+      "ram_usage": 77.2536430501,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 222. It shows varying levels of resource usage, with RAM usage consistently higher than CPU usage, and disk IO usage data missing.",
+      "insight_1": "1. The diskio_usage data is missing for all the entries, making it impossible to analyze disk io usage trends for the user.\n\n2. The user with serial number 'eeef668543' has a varying CPU usage throughout August 222, with the highest CPU usage recorded on August 2nd at 31.59% and the lowest on August 26th at 11.74%.\n\n3. The RAM usage for the user consistently stays above 68% throughout the month, with the highest RAM usage observed on August 18th at 84.64% and the lowest on August 4th at 68.7%.",
+      "insight_2": "Based on the provided data, the top 3 aberrations are:\n\n1. Missing diskio_usage values: All the diskio_usage values in the dataset are NaN, indicating missing or incomplete data for this field.\n\n2. High RAM usage: The RAM usage is consistently high, ranging from 68.7% to 84.64%. This could indicate a potential issue with the computer's memory management or a resource-intensive application running on the system.\n\n3. CPU usage fluctuations: The CPU usage varies significantly across the dataset, with values ranging from 11.74% to 31.59%. This fluctuation might indicate inconsistent workload or performance issues on the computer."
+    }
+  ]
+}

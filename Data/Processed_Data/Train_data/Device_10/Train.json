@@ -1,0 +1,149 @@
+{
+  "Data": [
+    {
+      "date": "2023-03-02",
+      "cpu_usage": 10.2313563372,
+      "ram_usage": 76.4379800483,
+      "diskio_usage": 1.7069787817
+    },
+    {
+      "date": "2023-03-03",
+      "cpu_usage": 20.2353700896,
+      "ram_usage": 81.0101462528,
+      "diskio_usage": 6.2038667579
+    },
+    {
+      "date": "2023-03-04",
+      "cpu_usage": 9.5646651636,
+      "ram_usage": 85.4912656651,
+      "diskio_usage": 2.4894679316
+    },
+    {
+      "date": "2023-03-06",
+      "cpu_usage": 18.5792351026,
+      "ram_usage": 50.0156832133,
+      "diskio_usage": 2.9798082998
+    },
+    {
+      "date": "2023-03-07",
+      "cpu_usage": 11.7607993459,
+      "ram_usage": 79.5147349613,
+      "diskio_usage": 2.1265140936
+    },
+    {
+      "date": "2023-03-08",
+      "cpu_usage": 21.3229433426,
+      "ram_usage": 81.9694566941,
+      "diskio_usage": 3.6814158039
+    },
+    {
+      "date": "2023-03-09",
+      "cpu_usage": 22.4255683927,
+      "ram_usage": 80.9485896461,
+      "diskio_usage": 6.0219239683
+    },
+    {
+      "date": "2023-03-12",
+      "cpu_usage": 14.3576296897,
+      "ram_usage": 80.4749666536,
+      "diskio_usage": 5.1188752027
+    },
+    {
+      "date": "2023-03-13",
+      "cpu_usage": 11.0032340416,
+      "ram_usage": 87.1760197662,
+      "diskio_usage": 3.7502477008
+    },
+    {
+      "date": "2023-03-14",
+      "cpu_usage": 18.5510999836,
+      "ram_usage": 87.5889434012,
+      "diskio_usage": 3.648249812
+    },
+    {
+      "date": "2023-03-15",
+      "cpu_usage": 32.2074764441,
+      "ram_usage": 87.7866902847,
+      "diskio_usage": 8.107809732
+    },
+    {
+      "date": "2023-03-16",
+      "cpu_usage": 33.1875650948,
+      "ram_usage": 89.1140568247,
+      "diskio_usage": 8.455482219
+    },
+    {
+      "date": "2023-03-17",
+      "cpu_usage": 28.9935797327,
+      "ram_usage": 81.5043646956,
+      "diskio_usage": 10.3396127186
+    },
+    {
+      "date": "2023-03-20",
+      "cpu_usage": 31.7405170269,
+      "ram_usage": 73.1665023341,
+      "diskio_usage": 14.340761155
+    },
+    {
+      "date": "2023-03-21",
+      "cpu_usage": 16.3076091985,
+      "ram_usage": 87.0220366851,
+      "diskio_usage": 3.7170727761
+    },
+    {
+      "date": "2023-03-22",
+      "cpu_usage": 13.1972630796,
+      "ram_usage": 83.7930075644,
+      "diskio_usage": 2.9905143682
+    },
+    {
+      "date": "2023-03-23",
+      "cpu_usage": 30.8155184009,
+      "ram_usage": 89.4596148624,
+      "diskio_usage": 9.3602536469
+    },
+    {
+      "date": "2023-03-24",
+      "cpu_usage": 17.5179245025,
+      "ram_usage": 88.2383605333,
+      "diskio_usage": 6.3063047688
+    },
+    {
+      "date": "2023-03-27",
+      "cpu_usage": 15.4140837989,
+      "ram_usage": 89.7495767259,
+      "diskio_usage": 8.318894196
+    },
+    {
+      "date": "2023-03-28",
+      "cpu_usage": 24.4512829758,
+      "ram_usage": 86.7189995634,
+      "diskio_usage": 12.7557635701
+    },
+    {
+      "date": "2023-03-29",
+      "cpu_usage": 28.2552422284,
+      "ram_usage": 87.8771473276,
+      "diskio_usage": 11.1345911649
+    },
+    {
+      "date": "2023-03-30",
+      "cpu_usage": 12.5334187319,
+      "ram_usage": 79.1673375619,
+      "diskio_usage": 2.1846800353
+    },
+    {
+      "date": "2023-03-31",
+      "cpu_usage": 11.6895066469,
+      "ram_usage": 85.7539122302,
+      "diskio_usage": 2.8159787676
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in March 223. It shows fluctuations in resource usage, with some days having higher CPU, RAM, and disk IO usage than others.",
+      "insight_1": "1. High RAM Usage: The user consistently experiences high RAM usage, with the majority of the days showing usage above 8%. This could indicate that the user is running memory-intensive applications or needs to upgrade their RAM for better performance.\n\n2. CPU Usage Variability: The CPU usage varies significantly across the days, ranging from as low as 9.56% to as high as 33.19%. This suggests that the user's computer usage patterns are not consistent, and they might be running different types of applications or tasks on different days.\n\n3. Disk IO Usage Spikes: There are noticeable spikes in disk IO usage on certain days, such as 14.34% on 223-3-2 and 12.76% on 223-3-28. These spikes could be due to specific tasks or applications that require high disk IO, such as large file transfers or software installations.",
+      "insight_2": "1. Highest CPU usage: On 223-3-16, the CPU usage reached its highest value of 33.19%.\n2. Highest RAM usage: On 223-3-27, the RAM usage peaked at 89.75%.\n3. Highest Disk IO usage: On 223-3-2, the disk IO usage was at its maximum value of 14.34%."
+    }
+  ]
+}

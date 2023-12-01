@@ -1,0 +1,125 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 6.4511663598,
+      "ram_usage": 58.5765789345,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 6.5914877427,
+      "ram_usage": 60.1313925847,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 5.2507623877,
+      "ram_usage": 60.6107430412,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-04",
+      "cpu_usage": 5.7613514347,
+      "ram_usage": 63.6310055946,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 5.3562264721,
+      "ram_usage": 64.074328155,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 5.6021190103,
+      "ram_usage": 64.2417353123,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 9.1894733878,
+      "ram_usage": 64.7007429418,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 13.1192251816,
+      "ram_usage": 60.4453647606,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 7.5160991298,
+      "ram_usage": 63.8256671788,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 5.6846237339,
+      "ram_usage": 65.8926438526,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 5.543029991,
+      "ram_usage": 65.1742968364,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 5.0361644005,
+      "ram_usage": 69.1955206774,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 5.6839788566,
+      "ram_usage": 69.1789654411,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 5.0202016702,
+      "ram_usage": 69.8988492591,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 9.8150712592,
+      "ram_usage": 68.0892195103,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 5.3762016223,
+      "ram_usage": 65.8177250282,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 5.0448191982,
+      "ram_usage": 61.585107264,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 5.6395663807,
+      "ram_usage": 69.0191307252,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 6.2676805809,
+      "ram_usage": 68.7803114156,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 222. It shows an increase in CPU usage on August 1th, 12th, and 24th, while RAM usage remains relatively high throughout the month.",
+      "insight_1": "1. The diskio_usage data is missing for all the entries in the given dataset, which indicates that there might be an issue with data collection or reporting for this metric.\n\n2. The highest CPU usage was recorded on 222-8-12 with a value of 13.119225, which is significantly higher than the average CPU usage for the given period.\n\n3. The RAM usage shows an overall increasing trend throughout the month of August, with the highest RAM usage recorded on 222-8-23 at 69.898849. This could indicate that the user's computer might be running more resource-intensive tasks or applications over time.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This might indicate an issue with data collection or recording.\n\n2. CPU Usage Spike: On 222-8-12, there is a significant increase in CPU usage (13.119225) compared to the surrounding dates, which could indicate an unusual event or activity on that day.\n\n3. RAM Usage Increase: Between 222-8-1 and 222-8-19, the RAM usage shows a steady increase from 58.576579 to 69.195521. This could be due to increased workload or memory leaks in the system."
+    }
+  ]
+}

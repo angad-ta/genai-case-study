@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains computer usage information for a user with serial number 9c39d15c7 during March 223, including CPU, RAM, and disk IO usage. It shows varying levels of resource usage, with a noticeable spike in CPU usage on March 5th.","1. There is a significant spike in CPU usage on 223-3-5, reaching 45.32%, which is much higher than the average CPU usage for the rest of the days. This could indicate an unusual event or high workload on that day.
+
+2. The RAM usage remains relatively stable throughout the month, with an average of around 38.3%. However, there is a noticeable increase in RAM usage on 223-3-5 (46.19%) and 223-3-14 to 223-3-22 (ranging from 4.79% to 43.51%), which could be related to the spike in CPU usage on 223-3-5.
+
+3. Disk IO usage is generally low and stable throughout the month, with an average of around 1.3%. However, there is a noticeable increase in disk IO usage on 223-3-8 (1.76%) and 223-3-14 (1.74%), which might be worth investigating for potential causes.","1. On 223-3-5, there is a significant spike in CPU usage at 45.32%, which is much higher than the average CPU usage observed in the dataset.
+2. On 223-3-6, the CPU usage is at 24.39%, which is also higher than the average but not as extreme as the spike on 223-3-5.
+3. On 223-3-14, the disk io usage is at 1.74%, which is higher than the average disk io usage observed in the dataset."

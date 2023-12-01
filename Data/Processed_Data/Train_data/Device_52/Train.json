@@ -1,0 +1,167 @@
+{
+  "Data": [
+    {
+      "date": "2022-04-27",
+      "cpu_usage": 23.22532414,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-30",
+      "cpu_usage": 29.3388986,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-03",
+      "cpu_usage": 26.07021469,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-06",
+      "cpu_usage": 29.9934819,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-09",
+      "cpu_usage": 39.54866039,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-12",
+      "cpu_usage": 37.59113022,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-15",
+      "cpu_usage": 38.434689,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-18",
+      "cpu_usage": 42.65346924,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-21",
+      "cpu_usage": 49.65443664,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-24",
+      "cpu_usage": 53.28484217,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-27",
+      "cpu_usage": 59.57774198,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-30",
+      "cpu_usage": 54.53339125,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-02",
+      "cpu_usage": 67.14730977,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-05",
+      "cpu_usage": 69.01795284,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-08",
+      "cpu_usage": 65.53115814,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-11",
+      "cpu_usage": 74.40073058,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-14",
+      "cpu_usage": 71.08782684,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-17",
+      "cpu_usage": 75.95237185,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-20",
+      "cpu_usage": 78.81276676,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-23",
+      "cpu_usage": 84.84195008,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-26",
+      "cpu_usage": 87.7615082,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-29",
+      "cpu_usage": 96.94505998,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-02",
+      "cpu_usage": 96.5824413,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-05",
+      "cpu_usage": 97.9469065,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-08",
+      "cpu_usage": 87.86364325,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-11",
+      "cpu_usage": 81.02954507,
+      "ram_usage": null,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains CPU usage information for a single user (serial number 48543e6593) over a period from 4/27/222 to 7/11/222. The CPU usage shows an overall increasing trend, reaching its peak at 97.95% on 7/5/222.",
+      "insight_1": "1. CPU usage increase over time: The CPU usage for the user with serial number 48543e6593 has been consistently increasing over the given period, starting from 23.23% on April 27, 222, and reaching a peak of 97.95% on July 5, 222.\n\n2. Highest CPU usage: The top 3 highest CPU usage instances occurred on July 5, 222 (97.95%), July 2, 222 (96.58%), and June 29, 222 (96.95%).\n\n3. Significant CPU usage jump in June: There is a noticeable jump in CPU usage between June 2, 222 (67.15%) and June 5, 222 (69.2%), followed by a consistent increase in usage, reaching above 8% by June 23, 222. This could indicate a change in the user's computer usage patterns or an increase in resource-intensive tasks during this period.",
+      "insight_2": "Based on the provided data, the top 3 aberrations in CPU usage are:\n\n1. The CPU usage increased significantly from 87.76158 on 6/26/222 to 96.9456 on 6/29/222, with an increase of 9.183552.\n2. The CPU usage increased from 53.284842 on 5/24/222 to 59.577742 on 5/27/222, with an increase of 6.2929.\n3. The CPU usage increased from 65.531158 on 6/8/222 to 74.4731 on 6/11/222, with an increase of 8.869573."
+    }
+  ]
+}

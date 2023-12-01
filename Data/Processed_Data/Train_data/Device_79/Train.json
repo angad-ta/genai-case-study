@@ -1,0 +1,179 @@
+{
+  "Data": [
+    {
+      "date": "2022-02-25",
+      "cpu_usage": null,
+      "ram_usage": 8.253433599,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-26",
+      "cpu_usage": null,
+      "ram_usage": 3.415134412,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-27",
+      "cpu_usage": null,
+      "ram_usage": 5.647391301,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-28",
+      "cpu_usage": null,
+      "ram_usage": 8.333883236,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-01",
+      "cpu_usage": null,
+      "ram_usage": 7.777984745,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-02",
+      "cpu_usage": null,
+      "ram_usage": 9.446286634,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-03",
+      "cpu_usage": null,
+      "ram_usage": 9.768412998,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-04",
+      "cpu_usage": null,
+      "ram_usage": 8.826703031,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-05",
+      "cpu_usage": null,
+      "ram_usage": 8.04779562,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-06",
+      "cpu_usage": null,
+      "ram_usage": 8.687921482,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-07",
+      "cpu_usage": null,
+      "ram_usage": 4.968099722,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-08",
+      "cpu_usage": null,
+      "ram_usage": 7.367466376,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-09",
+      "cpu_usage": null,
+      "ram_usage": 8.33799923,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-10",
+      "cpu_usage": null,
+      "ram_usage": 10.96625553,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-11",
+      "cpu_usage": null,
+      "ram_usage": 11.38761721,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-12",
+      "cpu_usage": null,
+      "ram_usage": 11.20696369,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-13",
+      "cpu_usage": null,
+      "ram_usage": 12.54402094,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-14",
+      "cpu_usage": null,
+      "ram_usage": 11.93853065,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-15",
+      "cpu_usage": null,
+      "ram_usage": 11.92322671,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-16",
+      "cpu_usage": null,
+      "ram_usage": 14.16119332,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-17",
+      "cpu_usage": null,
+      "ram_usage": 10.07342403,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-18",
+      "cpu_usage": null,
+      "ram_usage": 11.84124706,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-19",
+      "cpu_usage": null,
+      "ram_usage": 5.544663941,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-20",
+      "cpu_usage": null,
+      "ram_usage": 6.582123361,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-21",
+      "cpu_usage": null,
+      "ram_usage": 7.725099505,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-22",
+      "cpu_usage": null,
+      "ram_usage": 9.343634009,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-23",
+      "cpu_usage": null,
+      "ram_usage": 17.03952601,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-24",
+      "cpu_usage": null,
+      "ram_usage": 13.18339538,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's daily RAM usage on a computer from February 25th to March 24th, 222. It shows that the RAM usage generally increased over time, with the highest usage recorded on March 23rd at 17.39526.",
+      "insight_1": "1. RAM usage increase: The RAM usage for the user with serial number 615bc31a7a has been generally increasing over the given period (from 2/25/222 to 3/24/222). The usage started at 8.25 % and reached a peak of 17.4 % on 3/23/222.\n\n2. Highest RAM usage days: The top 3 days with the highest RAM usage are 3/23/222 (17.4 %), 3/16/222 (14.16 %), and 3/24/222 (13.18 %).\n\n3. Lowest RAM usage days: The top 3 days with the lowest RAM usage are 2/26/222 (3.42 %), 3/7/222 (4.96%), and 3/19/222 (5.54 %).",
+      "insight_2": "Based on the provided data, the top 3 aberrations in RAM usage are:\n\n1. On 3/23/222, the RAM usage spiked to 17.39526, which is significantly higher than the surrounding dates.\n2. On 3/16/222, the RAM usage reached 14.161193, which is also notably higher compared to the nearby dates.\n3. On 3/24/222, the RAM usage was 13.183395, which is another relatively high value compared to the rest of the dataset."
+    }
+  ]
+}

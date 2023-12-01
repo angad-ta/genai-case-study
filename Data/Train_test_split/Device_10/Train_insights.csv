@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in March 223. It shows fluctuations in resource usage, with some days having higher CPU, RAM, and disk IO usage than others.","1. High RAM Usage: The user consistently experiences high RAM usage, with the majority of the days showing usage above 8%. This could indicate that the user is running memory-intensive applications or needs to upgrade their RAM for better performance.
+
+2. CPU Usage Variability: The CPU usage varies significantly across the days, ranging from as low as 9.56% to as high as 33.19%. This suggests that the user's computer usage patterns are not consistent, and they might be running different types of applications or tasks on different days.
+
+3. Disk IO Usage Spikes: There are noticeable spikes in disk IO usage on certain days, such as 14.34% on 223-3-2 and 12.76% on 223-3-28. These spikes could be due to specific tasks or applications that require high disk IO, such as large file transfers or software installations.","1. Highest CPU usage: On 223-3-16, the CPU usage reached its highest value of 33.19%.
+2. Highest RAM usage: On 223-3-27, the RAM usage peaked at 89.75%.
+3. Highest Disk IO usage: On 223-3-2, the disk IO usage was at its maximum value of 14.34%."

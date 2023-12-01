@@ -1,0 +1,125 @@
+{
+  "Data": [
+    {
+      "date": "2022-04-26",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 15.68105234
+    },
+    {
+      "date": "2022-04-27",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 16.50245417
+    },
+    {
+      "date": "2022-04-28",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 10.40402748
+    },
+    {
+      "date": "2022-04-29",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 11.02054458
+    },
+    {
+      "date": "2022-04-30",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 10.99043842
+    },
+    {
+      "date": "2022-05-01",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 11.54890237
+    },
+    {
+      "date": "2022-05-02",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 14.04647807
+    },
+    {
+      "date": "2022-05-03",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 13.12423421
+    },
+    {
+      "date": "2022-05-04",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 15.29928893
+    },
+    {
+      "date": "2022-05-05",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 15.68683804
+    },
+    {
+      "date": "2022-05-06",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 16.66401216
+    },
+    {
+      "date": "2022-05-07",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 16.80361189
+    },
+    {
+      "date": "2022-05-08",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 18.21392415
+    },
+    {
+      "date": "2022-05-09",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 17.7124746
+    },
+    {
+      "date": "2022-05-10",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 18.75818493
+    },
+    {
+      "date": "2022-05-11",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 19.35772553
+    },
+    {
+      "date": "2022-05-12",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 20.56448267
+    },
+    {
+      "date": "2022-05-13",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 20.64673769
+    },
+    {
+      "date": "2022-05-14",
+      "cpu_usage": null,
+      "ram_usage": null,
+      "diskio_usage": 22.45948438
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's daily disk IO usage on a computer from April 26, 222, to May 14, 222. It shows an overall increasing trend in disk IO usage over this period.",
+      "insight_1": "1. The disk IO usage has been consistently increasing over the given period, from 15.68 on 4/26/222 to 22.46 on 5/14/222.\n2. The highest disk IO usage was recorded on 5/14/222 with a value of 22.459484.\n3. The lowest disk IO usage was observed on 4/28/222 with a value of 1.4427.",
+      "insight_2": "Based on the provided data, the top 3 aberrations in diskio_usage are:\n\n1. The increase from 11.2545 on 4/29/222 to 2.646738 on 5/13/222, which is an increase of 9.626193.\n2. The increase from 1.4427 on 4/28/222 to 18.213924 on 5/8/222, which is an increase of 7.89897.\n3. The increase from 13.124234 on 5/3/222 to 19.357726 on 5/11/222, which is an increase of 6.233492."
+    }
+  ]
+}

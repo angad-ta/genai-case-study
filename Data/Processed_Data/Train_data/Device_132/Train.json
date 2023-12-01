@@ -1,0 +1,179 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 45.5134423117,
+      "ram_usage": 62.5687436707,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 55.13527144,
+      "ram_usage": 66.0130267293,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 20.7515053576,
+      "ram_usage": 58.0011574667,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-04",
+      "cpu_usage": 20.8230528664,
+      "ram_usage": 57.3828444895,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-05",
+      "cpu_usage": 39.274591941,
+      "ram_usage": 59.9578476641,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-06",
+      "cpu_usage": 23.3803624435,
+      "ram_usage": 57.6349272001,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-07",
+      "cpu_usage": 41.8947083995,
+      "ram_usage": 62.8336444045,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 14.7684199468,
+      "ram_usage": 57.8280844236,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 26.5682819848,
+      "ram_usage": 56.2494714928,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 23.1487653628,
+      "ram_usage": 52.6867571369,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 32.649656996,
+      "ram_usage": 59.8213634524,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-13",
+      "cpu_usage": 13.1752268179,
+      "ram_usage": 55.8233292592,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 43.5715091507,
+      "ram_usage": 59.66452703,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 73.9602707955,
+      "ram_usage": 68.5002846915,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 33.3329935645,
+      "ram_usage": 61.2827341927,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 43.8167162723,
+      "ram_usage": 66.7726833637,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 20.7864683471,
+      "ram_usage": 59.2755572718,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-20",
+      "cpu_usage": 29.5466453655,
+      "ram_usage": 54.0412671653,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-21",
+      "cpu_usage": 50.6230816356,
+      "ram_usage": 66.6518025021,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 53.6431280551,
+      "ram_usage": 67.7251162341,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 49.5565016739,
+      "ram_usage": 68.4211945629,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 49.2182991532,
+      "ram_usage": 63.4437362821,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 27.0555685243,
+      "ram_usage": 67.5645954484,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 58.2012972236,
+      "ram_usage": 69.0007881808,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-27",
+      "cpu_usage": 58.5742052572,
+      "ram_usage": 63.7668623792,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-28",
+      "cpu_usage": 56.0129071298,
+      "ram_usage": 69.0839302445,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 60.2730500763,
+      "ram_usage": 70.7891572585,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 34.0569199676,
+      "ram_usage": 63.0038280405,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time in August 222. It shows varying levels of resource usage, with the highest CPU usage at 73.96% and the highest RAM usage at 7.79%.",
+      "insight_1": "1. High CPU Usage: The highest CPU usage recorded was on 222-8-16 with 73.96%. The CPU usage seems to fluctuate significantly throughout the month, with values ranging from 13.18% to 73.96%.\n\n2. Increasing RAM Usage: The RAM usage shows an overall increasing trend throughout the month, starting from 52.69% on 222-8-1 and reaching a peak of 7.79% on 222-8-29.\n\n3. Missing Disk IO Usage Data: The diskio_usage column has no data (NaN) for all the entries in the given dataset. This indicates that there might be an issue with data collection or reporting for this particular metric.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has no data (NaN) for all the entries in the dataset. This could be due to an error in data collection or reporting.\n\n2. CPU Usage Spike: On 222-8-16, there is a significant spike in CPU usage at 73.96%, which is much higher than the average CPU usage for the given dataset.\n\n3. RAM Usage Fluctuations: The RAM usage fluctuates throughout the dataset, with the highest RAM usage at 7.79% on 222-8-29 and the lowest at 52.69% on 222-8-1."
+    }
+  ]
+}

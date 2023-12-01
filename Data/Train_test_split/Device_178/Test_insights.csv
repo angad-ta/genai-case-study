@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over several days in August 222. It shows varying levels of resource usage, with the highest CPU usage on August 22nd (6.22%) and the highest RAM usage on August 29th (81.6%).","1. The highest CPU usage was recorded on August 22, 222, with a value of 6.218384.
+2. The highest RAM usage occurred on August 29, 222, with a value of 81.55484.
+3. Disk IO usage data is missing (NaN) for all the entries in the given dataset.","1. The diskio_usage column has no data (NaN) for all the entries, making it impossible to analyze disk io usage for the given dataset.
+
+2. The CPU usage shows a significant increase on 222-8-22 with a value of 6.218384, which is much higher than the average CPU usage observed in the dataset.
+
+3. The RAM usage also shows a noticeable spike on 222-8-29 with a value of 81.55484, which is higher than the average RAM usage observed in the dataset."

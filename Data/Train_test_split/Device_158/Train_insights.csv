@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's daily RAM usage on their computer from May 3rd to May 31st, 222. It shows that the RAM usage fluctuates, with the highest usage at 98.39% on May 2th and the lowest at 63.34% on May 31st.","1. Highest RAM Usage: The highest RAM usage recorded was on 5/2/222, with a usage of 98.393767%.
+
+2. Lowest RAM Usage: The lowest RAM usage occurred on 5/31/222, with a usage of 63.344444%.
+
+3. RAM Usage Trend: The RAM usage generally fluctuated throughout the month, with multiple instances of usage above 9% and a few instances below 8%.","Based on the provided data, the top 3 aberrations in RAM usage are:
+
+1. On 5/2/222, the RAM usage reached its highest value of 98.393767.
+2. On 5/21/222, the RAM usage was also very high at 97.547639.
+3. On 5/15/222, the RAM usage spiked to 97.574891."

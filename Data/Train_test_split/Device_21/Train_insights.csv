@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains daily disk IO usage for a specific user (serial number 1e38b82296) from May 5th to May 21st, 222. The disk IO usage fluctuates between 75.24 and 97.23, with no clear pattern or trend.","1. The highest disk IO usage was on 5/18/222 with a value of 97.23342.
+2. The lowest disk IO usage occurred on 5/19/222 with a value of 81.41187.
+3. The average disk IO usage for the given period (5/5/222 to 5/21/222) is approximately 89.67, indicating a generally high level of disk activity for the user with serial number 1e38b82296.","Based on the provided data, the top 3 aberrations in diskio_usage are:
+
+1. The highest disk io usage occurred on 5/18/222 with a value of 97.23342.
+2. The second-highest disk io usage happened on 5/14/222 with a value of 96.542141.
+3. The third-highest disk io usage was on 5/8/222 with a value of 95.326866."

@@ -1,0 +1,143 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 15.7287925698,
+      "ram_usage": 38.4539444925,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 8.2773043261,
+      "ram_usage": 41.8046469162,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 9.4561209278,
+      "ram_usage": 41.657928569,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-04",
+      "cpu_usage": 7.6493362772,
+      "ram_usage": 41.0215893767,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-05",
+      "cpu_usage": 16.6125881025,
+      "ram_usage": 37.3394598535,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 9.2678966845,
+      "ram_usage": 38.9140969997,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 6.5904538229,
+      "ram_usage": 30.3456093943,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 7.9432807748,
+      "ram_usage": 36.7906958495,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-11",
+      "cpu_usage": 7.1954237641,
+      "ram_usage": 38.3942392205,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-13",
+      "cpu_usage": 7.539190332,
+      "ram_usage": 41.1478263823,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 15.0546822193,
+      "ram_usage": 36.5128706448,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 7.9391044516,
+      "ram_usage": 38.6121167497,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 10.7865059939,
+      "ram_usage": 42.6425837058,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 6.663600428,
+      "ram_usage": 37.3230951825,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-20",
+      "cpu_usage": 4.7296640472,
+      "ram_usage": 33.9822594409,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 9.07205458,
+      "ram_usage": 31.5293965903,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 8.6957379598,
+      "ram_usage": 32.7213493127,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 7.575423363,
+      "ram_usage": 32.7048715536,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 8.3975756416,
+      "ram_usage": 28.491985591,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 5.8116371706,
+      "ram_usage": 33.703725013,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 32.0640462386,
+      "ram_usage": 37.92666839,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 81.6433715116,
+      "ram_usage": 37.3054926372,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 222. It shows varying levels of resource usage, with a significant increase in CPU usage on August 3th and 31st.",
+      "insight_1": "1. The highest CPU usage was recorded on 222-8-31 with 81.64%, which is significantly higher than the average CPU usage observed in the given data.\n\n2. The RAM usage remains relatively stable throughout the month, with an average usage around 37%. The highest RAM usage was recorded on 222-8-17 at 42.64%.\n\n3. The diskio_usage data is missing (NaN) for all the entries, indicating that there might be an issue with data collection or reporting for this metric.",
+      "insight_2": "1. The highest CPU usage: On 222-8-31, the CPU usage reached an unusually high value of 81.64%, which is significantly higher than the usage on other days.\n\n2. The second-highest CPU usage: On 222-8-3, the CPU usage was 32.6%, which is also considerably higher compared to the rest of the dataset.\n\n3. Missing diskio_usage data: The diskio_usage column has NaN values for all the entries, indicating that the data is missing or not recorded for this field."
+    }
+  ]
+}

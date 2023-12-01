@@ -1,0 +1,131 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 2.5246599713,
+      "ram_usage": 38.4843137266,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 2.94488479,
+      "ram_usage": 47.2772945683,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 1.7899707826,
+      "ram_usage": 43.9670339508,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 2.2458665946,
+      "ram_usage": 47.9396662125,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 6.108758239,
+      "ram_usage": 44.4337733306,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 1.5417353065,
+      "ram_usage": 46.1682106548,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-11",
+      "cpu_usage": 1.9166936722,
+      "ram_usage": 48.5944178818,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 2.8574292557,
+      "ram_usage": 50.7594646886,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-13",
+      "cpu_usage": 2.1756151996,
+      "ram_usage": 50.4453848597,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-14",
+      "cpu_usage": 0.8697383578,
+      "ram_usage": 52.7467087838,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 1.6199774276,
+      "ram_usage": 52.9071673966,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 2.0148815317,
+      "ram_usage": 47.6628498452,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 1.5809734023,
+      "ram_usage": 48.9842771054,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-20",
+      "cpu_usage": 4.8545978392,
+      "ram_usage": 47.016171003,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 4.719677082,
+      "ram_usage": 46.1201277296,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 13.7843325971,
+      "ram_usage": 42.5896770267,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 13.6793615441,
+      "ram_usage": 45.7516740856,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 6.0826782333,
+      "ram_usage": 45.8259160456,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 1.4823228875,
+      "ram_usage": 40.710093606,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 7.0376527926,
+      "ram_usage": 47.4372746453,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 222. It shows fluctuations in CPU and RAM usage, with missing data for disk IO usage.",
+      "insight_1": "1. The highest CPU usage was recorded on August 23rd and August 24th, with 13.78% and 13.68% respectively. These two days had significantly higher CPU usage compared to the rest of the month.\n\n2. The RAM usage showed an increasing trend throughout the month, with the lowest usage of 38.48% on August 1st and the highest usage of 52.91% on August 15th.\n\n3. Disk IO usage data is missing for the entire month, making it impossible to analyze and draw insights from this metric.",
+      "insight_2": "1. Missing diskio_usage data: The diskio_usage column has NaN values for all the entries, indicating that the data is missing or not recorded.\n\n2. High CPU usage on August 23rd and 24th: The CPU usage on these two days is significantly higher than the rest of the days, with values of 13.784333 and 13.679362, respectively.\n\n3. Inconsistent data collection frequency: The data is not collected consistently on a daily basis, as there are gaps between some dates (e.g., August 3rd to 8th, August 16th to 19th, and August 2th to 22nd)."
+    }
+  ]
+}

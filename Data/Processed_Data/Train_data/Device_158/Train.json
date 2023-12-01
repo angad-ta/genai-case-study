@@ -1,0 +1,185 @@
+{
+  "Data": [
+    {
+      "date": "2022-05-03",
+      "cpu_usage": null,
+      "ram_usage": 76.60328743,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-04",
+      "cpu_usage": null,
+      "ram_usage": 94.32696981,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-05",
+      "cpu_usage": null,
+      "ram_usage": 88.22259032,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-06",
+      "cpu_usage": null,
+      "ram_usage": 87.85225652,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-07",
+      "cpu_usage": null,
+      "ram_usage": 97.85274474,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-08",
+      "cpu_usage": null,
+      "ram_usage": 80.03838236,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-09",
+      "cpu_usage": null,
+      "ram_usage": 78.11661384,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-10",
+      "cpu_usage": null,
+      "ram_usage": 84.38079982,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-11",
+      "cpu_usage": null,
+      "ram_usage": 81.62680092,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-12",
+      "cpu_usage": null,
+      "ram_usage": 82.73456841,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-13",
+      "cpu_usage": null,
+      "ram_usage": 93.05039245,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-14",
+      "cpu_usage": null,
+      "ram_usage": 82.55278212,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-15",
+      "cpu_usage": null,
+      "ram_usage": 97.57489119,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-16",
+      "cpu_usage": null,
+      "ram_usage": 83.62458493,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-17",
+      "cpu_usage": null,
+      "ram_usage": 87.61047583,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-18",
+      "cpu_usage": null,
+      "ram_usage": 86.83956848,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-19",
+      "cpu_usage": null,
+      "ram_usage": 76.00348361,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-20",
+      "cpu_usage": null,
+      "ram_usage": 98.39376687,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-21",
+      "cpu_usage": null,
+      "ram_usage": 97.54763943,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-22",
+      "cpu_usage": null,
+      "ram_usage": 94.50597197,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-23",
+      "cpu_usage": null,
+      "ram_usage": 90.21106711,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-24",
+      "cpu_usage": null,
+      "ram_usage": 88.63700932,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-25",
+      "cpu_usage": null,
+      "ram_usage": 84.4309759,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-26",
+      "cpu_usage": null,
+      "ram_usage": 84.90859386,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-27",
+      "cpu_usage": null,
+      "ram_usage": 78.45825843,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-28",
+      "cpu_usage": null,
+      "ram_usage": 75.37747277,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-29",
+      "cpu_usage": null,
+      "ram_usage": 76.00045705,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-30",
+      "cpu_usage": null,
+      "ram_usage": 74.6467681,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-31",
+      "cpu_usage": null,
+      "ram_usage": 63.34444361,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's daily RAM usage on their computer from May 3rd to May 31st, 222. It shows that the RAM usage fluctuates, with the highest usage at 98.39% on May 2th and the lowest at 63.34% on May 31st.",
+      "insight_1": "1. Highest RAM Usage: The highest RAM usage recorded was on 5/2/222, with a usage of 98.393767%.\n\n2. Lowest RAM Usage: The lowest RAM usage occurred on 5/31/222, with a usage of 63.344444%.\n\n3. RAM Usage Trend: The RAM usage generally fluctuated throughout the month, with multiple instances of usage above 9% and a few instances below 8%.",
+      "insight_2": "Based on the provided data, the top 3 aberrations in RAM usage are:\n\n1. On 5/2/222, the RAM usage reached its highest value of 98.393767.\n2. On 5/21/222, the RAM usage was also very high at 97.547639.\n3. On 5/15/222, the RAM usage spiked to 97.574891."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "Data": [
+    {
+      "date": "2022-01-02",
+      "cpu_usage": null,
+      "ram_usage": 84.38294032,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-01-05",
+      "cpu_usage": null,
+      "ram_usage": 75.46410682,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-01-08",
+      "cpu_usage": null,
+      "ram_usage": 79.27392665,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-01-11",
+      "cpu_usage": null,
+      "ram_usage": 77.93316237,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-01-14",
+      "cpu_usage": null,
+      "ram_usage": 76.59915504,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-01-17",
+      "cpu_usage": null,
+      "ram_usage": 68.14650618,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-01-20",
+      "cpu_usage": null,
+      "ram_usage": 71.69233566,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-01-23",
+      "cpu_usage": null,
+      "ram_usage": 64.62596484,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-01-26",
+      "cpu_usage": null,
+      "ram_usage": 62.84304507,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-01-29",
+      "cpu_usage": null,
+      "ram_usage": 66.88674866,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-01",
+      "cpu_usage": null,
+      "ram_usage": 58.4335848,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-04",
+      "cpu_usage": null,
+      "ram_usage": 62.7177738,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-07",
+      "cpu_usage": null,
+      "ram_usage": 54.07520295,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-10",
+      "cpu_usage": null,
+      "ram_usage": 52.34260734,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-13",
+      "cpu_usage": null,
+      "ram_usage": 50.26109742,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-16",
+      "cpu_usage": null,
+      "ram_usage": 47.64127864,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-19",
+      "cpu_usage": null,
+      "ram_usage": 45.90944815,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-22",
+      "cpu_usage": null,
+      "ram_usage": 43.85219782,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-25",
+      "cpu_usage": null,
+      "ram_usage": 42.22803603,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-02-28",
+      "cpu_usage": null,
+      "ram_usage": 40.21377637,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-03",
+      "cpu_usage": null,
+      "ram_usage": 45.4037635,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-06",
+      "cpu_usage": null,
+      "ram_usage": 43.53498811,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-09",
+      "cpu_usage": null,
+      "ram_usage": 41.3134516,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-12",
+      "cpu_usage": null,
+      "ram_usage": 40.59118652,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-15",
+      "cpu_usage": null,
+      "ram_usage": 30.33032901,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-18",
+      "cpu_usage": null,
+      "ram_usage": 29.46022463,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer RAM usage over time, identified by their serial number. It shows a general decreasing trend in RAM usage from January to March 222.",
+      "insight_1": "1. Decreasing RAM usage trend: The RAM usage for the user with serial number 'ce9faff7dc' has been consistently decreasing over the given time period, from 84.38% on 1/2/222 to 29.46% on 3/18/222.\n\n2. Highest and lowest RAM usage: The highest RAM usage recorded was 84.38% on 1/2/222, while the lowest RAM usage was 29.46% on 3/18/222.\n\n3. Significant drop in RAM usage in March: There is a noticeable drop in RAM usage in March, with the usage going below 4% for the first time on 3/15/222 (3.33%) and continuing to decrease in the following days.",
+      "insight_2": "Based on the provided data, the top 3 aberrations in RAM usage are:\n\n1. The highest RAM usage of 84.38% on 1/2/222.\n2. The second-highest RAM usage of 79.27% on 1/8/222.\n3. The third-highest RAM usage of 77.93% on 1/11/222."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 1.2789407239,
+      "ram_usage": 72.5920448144,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-20",
+      "cpu_usage": 4.580049849,
+      "ram_usage": 72.7184524714,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-21",
+      "cpu_usage": 3.9668607461,
+      "ram_usage": 75.2544437314,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 2.079954101,
+      "ram_usage": 76.628113985,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 2.2579537279,
+      "ram_usage": 80.3184424987,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 1.8192514754,
+      "ram_usage": 80.5449091755,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 1.8649227534,
+      "ram_usage": 81.2640121187,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 1.8806927378,
+      "ram_usage": 82.121816408,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-27",
+      "cpu_usage": 2.3584069145,
+      "ram_usage": 81.9053478075,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-28",
+      "cpu_usage": 2.5944831945,
+      "ram_usage": 69.0794577528,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 2.7057883177,
+      "ram_usage": 71.3725078761,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 3.2951536237,
+      "ram_usage": 76.9671427675,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 2.8789593325,
+      "ram_usage": 77.6983365115,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over time. It shows varying levels of resource usage, with RAM usage generally increasing throughout August 222.",
+      "insight_1": "1. Increasing RAM usage trend: The RAM usage for user d7b413fd has been generally increasing throughout the month of August 222, starting at 72.59% on August 3rd and reaching a peak of 82.12% on August 26th.\n\n2. CPU usage fluctuations: The CPU usage for user d7b413fd fluctuates throughout the month, with the highest usage of 4.58% on August 2th and the lowest usage of 1.28% on August 3rd. There is no clear trend in CPU usage.\n\n3. Missing disk IO usage data: The disk IO usage data is missing (NaN) for all the entries in the table. This information is crucial for understanding the overall performance and resource utilization of the computer.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This might indicate an issue with data collection or recording.\n\n2. CPU Usage Variation: The CPU usage varies significantly throughout the dataset, with the lowest value being 1.278941 and the highest value being 4.585. This could indicate fluctuations in the user's computer usage or workload.\n\n3. RAM Usage Variation: The RAM usage also shows considerable variation, with the lowest value being 69.79458 and the highest value being 82.121816. This could be due to different types of applications or tasks being performed by the user on different dates."
+    }
+  ]
+}

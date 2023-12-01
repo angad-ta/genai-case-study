@@ -1,0 +1,10 @@
+  columns:
+    - name: "cpu_usage"
+      description: "CPU usage in %"
+    - name: "ram_usage"
+      description: "RAM usage in %"
+    - name: "diskio_usage"
+      description: "Disk usage in %"
+    - name: "date"
+      description: "Date on which the machine logs are recorded"
+

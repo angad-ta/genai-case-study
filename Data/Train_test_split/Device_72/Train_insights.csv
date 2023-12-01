@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time in March 223. It shows a general increase in CPU and RAM usage from the beginning to the end of the month, with disk IO usage remaining constant at .","1. Significant CPU usage drop: There is a noticeable drop in CPU usage starting from 223-3-25, going from an average of around 34% to below 2%. This could indicate a change in the user's computer usage pattern or a potential issue with the computer.
+
+2. Consistent Disk IO usage: Throughout the entire month, the disk IO usage remains at .. This could mean that either the user is not performing any disk-intensive tasks or there might be an issue with the data collection for disk IO usage.
+
+3. RAM usage fluctuations: The RAM usage fluctuates between 27.75% and 49.23% during the month, with the highest usage on 223-3-1 and the lowest on 223-3-31. This suggests that the user's computer usage varies, possibly due to different types of tasks being performed on different days.","1. Sudden drop in CPU usage: There is a significant drop in CPU usage from 32.24% on 223-3-25 to .63% on 223-3-26, and it remains low until the end of the month.
+
+2. High RAM usage variation: The RAM usage varies considerably throughout the month, with the lowest value being 27.75% on 223-3-31 and the highest value being 49.23% on 223-3-1.
+
+3. Constant Disk IO usage: The disk IO usage remains at .% throughout the entire month, which is unusual for a computer in use."

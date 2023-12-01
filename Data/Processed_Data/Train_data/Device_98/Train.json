@@ -1,0 +1,197 @@
+{
+  "Data": [
+    {
+      "date": "2023-03-01",
+      "cpu_usage": 7.5348127173,
+      "ram_usage": 64.6391556694,
+      "diskio_usage": 0.5976248974
+    },
+    {
+      "date": "2023-03-02",
+      "cpu_usage": 7.713757224,
+      "ram_usage": 66.7716382461,
+      "diskio_usage": 0.4696810599
+    },
+    {
+      "date": "2023-03-03",
+      "cpu_usage": 7.4081713425,
+      "ram_usage": 61.6428044248,
+      "diskio_usage": 0.4144870992
+    },
+    {
+      "date": "2023-03-04",
+      "cpu_usage": 7.3330042381,
+      "ram_usage": 63.6966109751,
+      "diskio_usage": 0.4737877891
+    },
+    {
+      "date": "2023-03-05",
+      "cpu_usage": 6.7875681584,
+      "ram_usage": 67.1501073105,
+      "diskio_usage": 0.4593944329
+    },
+    {
+      "date": "2023-03-06",
+      "cpu_usage": 21.4238096166,
+      "ram_usage": 68.439490537,
+      "diskio_usage": 0.6538000566
+    },
+    {
+      "date": "2023-03-07",
+      "cpu_usage": 21.7969700656,
+      "ram_usage": 69.7293460953,
+      "diskio_usage": 0.4740289021
+    },
+    {
+      "date": "2023-03-08",
+      "cpu_usage": 8.4575234236,
+      "ram_usage": 72.0295612448,
+      "diskio_usage": 0.4816090932
+    },
+    {
+      "date": "2023-03-09",
+      "cpu_usage": 7.6057849077,
+      "ram_usage": 75.2914136888,
+      "diskio_usage": 0.3951912755
+    },
+    {
+      "date": "2023-03-10",
+      "cpu_usage": 8.0149679366,
+      "ram_usage": 73.8847101559,
+      "diskio_usage": 0.5111355992
+    },
+    {
+      "date": "2023-03-11",
+      "cpu_usage": 8.2641755948,
+      "ram_usage": 72.8125361965,
+      "diskio_usage": 0.5181811315
+    },
+    {
+      "date": "2023-03-12",
+      "cpu_usage": 7.0374685538,
+      "ram_usage": 73.4939346894,
+      "diskio_usage": 0.5208252862
+    },
+    {
+      "date": "2023-03-13",
+      "cpu_usage": 7.8330087465,
+      "ram_usage": 74.5581446891,
+      "diskio_usage": 0.7846495323
+    },
+    {
+      "date": "2023-03-14",
+      "cpu_usage": 7.5069038445,
+      "ram_usage": 73.9768962495,
+      "diskio_usage": 0.576852489
+    },
+    {
+      "date": "2023-03-15",
+      "cpu_usage": 7.3583830825,
+      "ram_usage": 71.8221187131,
+      "diskio_usage": 0.4936198896
+    },
+    {
+      "date": "2023-03-16",
+      "cpu_usage": 7.1101849752,
+      "ram_usage": 73.8761143912,
+      "diskio_usage": 0.4657571392
+    },
+    {
+      "date": "2023-03-17",
+      "cpu_usage": 7.7608583741,
+      "ram_usage": 76.2133811693,
+      "diskio_usage": 0.9993735735
+    },
+    {
+      "date": "2023-03-18",
+      "cpu_usage": 7.5231798718,
+      "ram_usage": 79.2745618011,
+      "diskio_usage": 0.4979647218
+    },
+    {
+      "date": "2023-03-19",
+      "cpu_usage": 7.260323568,
+      "ram_usage": 73.0445617995,
+      "diskio_usage": 0.4502524829
+    },
+    {
+      "date": "2023-03-20",
+      "cpu_usage": 7.8405035991,
+      "ram_usage": 72.6913008274,
+      "diskio_usage": 0.7853533412
+    },
+    {
+      "date": "2023-03-21",
+      "cpu_usage": 7.4731201248,
+      "ram_usage": 75.1614158939,
+      "diskio_usage": 0.4736168451
+    },
+    {
+      "date": "2023-03-22",
+      "cpu_usage": 7.7382102505,
+      "ram_usage": 74.6039669958,
+      "diskio_usage": 0.5896543282
+    },
+    {
+      "date": "2023-03-23",
+      "cpu_usage": 7.5254369498,
+      "ram_usage": 74.3412500334,
+      "diskio_usage": 0.611881335
+    },
+    {
+      "date": "2023-03-24",
+      "cpu_usage": 5.19959477,
+      "ram_usage": 43.8670486041,
+      "diskio_usage": 0.4203669573
+    },
+    {
+      "date": "2023-03-25",
+      "cpu_usage": 21.0943075549,
+      "ram_usage": 62.2812308654,
+      "diskio_usage": 0.4331349961
+    },
+    {
+      "date": "2023-03-26",
+      "cpu_usage": 20.2332496475,
+      "ram_usage": 66.0285308623,
+      "diskio_usage": 0.8181761775
+    },
+    {
+      "date": "2023-03-27",
+      "cpu_usage": 6.6384023638,
+      "ram_usage": 67.3612650749,
+      "diskio_usage": 0.4781679808
+    },
+    {
+      "date": "2023-03-28",
+      "cpu_usage": 7.7257368345,
+      "ram_usage": 68.4340526021,
+      "diskio_usage": 0.8685103717
+    },
+    {
+      "date": "2023-03-29",
+      "cpu_usage": 7.1978777358,
+      "ram_usage": 72.3524073386,
+      "diskio_usage": 0.583515549
+    },
+    {
+      "date": "2023-03-30",
+      "cpu_usage": 7.1696311634,
+      "ram_usage": 72.7834441365,
+      "diskio_usage": 0.5120686714
+    },
+    {
+      "date": "2023-03-31",
+      "cpu_usage": 7.5523970993,
+      "ram_usage": 70.1945458319,
+      "diskio_usage": 0.4595748273
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time in March 223. It shows fluctuations in resource usage, with some days having significantly higher CPU usage than others.",
+      "insight_1": "1. CPU usage spike: There is a significant increase in CPU usage on 223-3-6 (21.42%), 223-3-7 (21.8%), 223-3-25 (21.9%), and 223-3-26 (2.23%). These spikes are much higher compared to the rest of the days in March 223.\n\n2. High RAM usage: The RAM usage is consistently high throughout the month, with the highest usage on 223-3-18 (79.27%). The lowest RAM usage is on 223-3-24 (43.87%), which is an outlier compared to the rest of the month.\n\n3. Disk IO usage variation: The disk IO usage varies throughout the month, with the highest usage on 223-3-17 (.999%). The lowest usage is on 223-3-9 (.395%). There is no clear pattern in disk IO usage, but it's worth noting the highest and lowest values.",
+      "insight_2": "1. CPU usage spikes: On 223-3-6 and 223-3-7, the CPU usage significantly increased to 21.42% and 21.8%, respectively, compared to the average CPU usage of around 9.19% on other days.\n\n2. RAM usage drop: On 223-3-24, the RAM usage dropped to 43.87%, which is significantly lower than the average RAM usage of around 7% on other days.\n\n3. Disk IO usage spike: On 223-3-17, the disk IO usage increased to .999, which is significantly higher than the average disk IO usage of around .5 on other days."
+    }
+  ]
+}

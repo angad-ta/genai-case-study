@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains daily disk IO usage for a computer with the serial number 'ee7d53dc1' from June 25, 222, to July 2, 222. It shows an overall increasing trend in disk IO usage over the period, with the highest usage recorded on July 19, 222, at 98.68225.","1. Increasing Disk IO Usage Trend: The disk IO usage for the user with serial number 'ee7d53dc1' has been consistently increasing over the given date range (from 6/25/222 to 7/2/222). It started at 25.21 on 6/25/222 and reached 96.78 on 7/2/222.
+
+2. Highest Disk IO Usage: The highest disk IO usage recorded during this period was 98.68 on 7/19/222.
+
+3. Rapid Growth in Disk IO Usage: The most significant growth in disk IO usage occurred between 7/11/222 and 7/13/222, where it increased from 73.1 to 87.48, a jump of 14.47 units in just two days.","1. Rapid increase in diskio_usage: The disk io usage shows a significant increase from 25.21 on 6/25/222 to 96.78 on 7/2/222, with the highest value being 98.68 on 7/19/222.
+
+2. High diskio_usage values: The top 3 highest disk io usage values are 98.68 (7/19/222), 96.78 (7/2/222), and 93.66 (7/16/222).
+
+3. Sudden drop in diskio_usage: There is a noticeable drop in disk io usage from 92.39 on 7/17/222 to 86.33 on 7/18/222, which is a decrease of 6.6 units."

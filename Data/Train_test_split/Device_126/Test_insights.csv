@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a month. It shows varying levels of CPU and RAM usage, with some high peaks, while disk IO usage is missing (NaN) for all entries.","1. High RAM Usage: The RAM usage for the user with serial number 95255c3be9 is consistently high throughout the month, ranging from 84.82% to 93.95%. This indicates that the user's computer might be running memory-intensive applications or facing memory management issues.
+
+2. CPU Usage Fluctuations: The CPU usage for the same user shows significant fluctuations, with the lowest usage at 2.27% and the highest at 77.89%. This suggests that the user's computer experiences varying levels of processing demand, which could be due to different types of tasks or applications being run.
+
+3. Missing Disk IO Usage Data: The disk io usage data is missing (NaN) for all the entries in the table. This information is crucial for understanding the overall performance of the user's computer, and it is recommended to investigate the reason for the missing data and ensure it is collected in the future.","1. High CPU usage: On 222-8-19, the CPU usage reached its highest point at 77.89%, which is significantly higher than the average CPU usage observed in the dataset.
+
+2. Low RAM usage: On 222-8-14, the RAM usage was at its lowest point at 84.82%, which is considerably lower than the average RAM usage observed in the dataset.
+
+3. Missing diskio_usage data: The diskio_usage column has no data (NaN) for all the entries in the dataset, indicating that this information is missing or not recorded."

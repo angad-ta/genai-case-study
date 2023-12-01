@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time. It shows varying levels of resource usage, with some days having higher usage than others.","1. RAM usage fluctuation: The RAM usage varies significantly throughout the month, with the lowest usage at 4.37% on 223-3-18 and the highest usage at 83.52% on 223-3-12. This indicates that the user's workload and application usage might be inconsistent.
+
+2. CPU usage consistency: The CPU usage remains relatively consistent throughout the month, ranging from .93721 to 2.449994. This suggests that the user's CPU-intensive tasks are fairly stable over time.
+
+3. Disk IO usage spike: There is a noticeable spike in disk IO usage on 223-3-24, reaching 1.3572, which is significantly higher than the average disk IO usage for the month. This could indicate a one-time event or task that required more disk IO resources than usual.","1. On 223-3-24, there is a significant increase in diskio_usage at 1.3572, which is much higher than the values observed on other days.
+
+2. On 223-3-24, the cpu_usage reaches its highest value at 2.449994, which is an aberration compared to the rest of the dataset.
+
+3. On 223-3-12, the ram_usage is at its peak with a value of 83.515728, which is noticeably higher than the values on other days."

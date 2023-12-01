@@ -1,0 +1,173 @@
+{
+  "Data": [
+    {
+      "date": "2022-07-13",
+      "cpu_usage": null,
+      "ram_usage": 87.90165015,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-16",
+      "cpu_usage": null,
+      "ram_usage": 91.73360898,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-19",
+      "cpu_usage": null,
+      "ram_usage": 82.68978195,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-22",
+      "cpu_usage": null,
+      "ram_usage": 82.60687702,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-25",
+      "cpu_usage": null,
+      "ram_usage": 82.2510464,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-28",
+      "cpu_usage": null,
+      "ram_usage": 97.63788626,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-31",
+      "cpu_usage": null,
+      "ram_usage": 77.38663199,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": null,
+      "ram_usage": 90.19015459,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-06",
+      "cpu_usage": null,
+      "ram_usage": 83.53068099,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": null,
+      "ram_usage": 78.35104252,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": null,
+      "ram_usage": 91.45463476,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": null,
+      "ram_usage": 94.86855124,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": null,
+      "ram_usage": 93.68867005,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-21",
+      "cpu_usage": null,
+      "ram_usage": 76.61801393,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": null,
+      "ram_usage": 75.09313691,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-27",
+      "cpu_usage": null,
+      "ram_usage": 78.04314693,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": null,
+      "ram_usage": 80.51464691,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-02",
+      "cpu_usage": null,
+      "ram_usage": 89.97714978,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-05",
+      "cpu_usage": null,
+      "ram_usage": 99.56822422,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-08",
+      "cpu_usage": null,
+      "ram_usage": 94.30707984,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-11",
+      "cpu_usage": null,
+      "ram_usage": 91.36268618,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-14",
+      "cpu_usage": null,
+      "ram_usage": 90.83051633,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-17",
+      "cpu_usage": null,
+      "ram_usage": 81.61389593,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-20",
+      "cpu_usage": null,
+      "ram_usage": 81.69534019,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-23",
+      "cpu_usage": null,
+      "ram_usage": 82.47569932,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-26",
+      "cpu_usage": null,
+      "ram_usage": 71.39442311,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-29",
+      "cpu_usage": null,
+      "ram_usage": 77.3115153,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer RAM usage over time, identified by their serial number. It shows fluctuations in RAM usage, with the highest usage at 99.57% on 9/5/222 and the lowest at 71.39% on 9/26/222.",
+      "insight_1": "1. Highest RAM Usage: The highest RAM usage recorded was 99.57% on 9/5/222.\n2. Lowest RAM Usage: The lowest RAM usage recorded was 71.39% on 9/26/222.\n3. RAM Usage Fluctuation: The RAM usage fluctuated significantly over the period, with a difference of 28.17% between the highest and lowest usage.",
+      "insight_2": "After analyzing the dataset, the top 3 aberrations in RAM usage are:\n\n1. On 9/5/222, the RAM usage reached its highest value at 99.568224.\n2. On 7/28/222, there was a significant increase in RAM usage to 97.637886.\n3. On 9/8/222, the RAM usage was also high at 94.378."
+    }
+  ]
+}

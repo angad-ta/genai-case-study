@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of 31 days in March 223. It shows an overall increase in resource usage, with a significant drop in usage on March 26th, followed by a gradual increase towards the end of the month.","1. Significant increase in RAM usage: From 223-3-1 to 223-3-19, the RAM usage increased from 52.16% to 72.77%, indicating a substantial growth in memory consumption over the period.
+
+2. CPU usage remains relatively stable: Throughout the month, the CPU usage fluctuates between 1.5% and 2.43%, with no significant upward or downward trend. This suggests that the CPU load is relatively consistent during this time.
+
+3. Disk IO usage spike on 223-3-18: There is a noticeable spike in disk IO usage on 223-3-18, reaching 4.13%, which is significantly higher than the average disk IO usage for the month. This could indicate a one-time event or an anomaly that may require further investigation.","1. On 223-3-19, there is a significant increase in RAM usage, reaching 72.77%, which is much higher than the previous days.
+2. On 223-3-18, the disk io usage spiked to 4.129497, which is considerably higher than the values observed on other days.
+3. Between 223-3-26 and 223-3-27, there is a noticeable drop in CPU usage, RAM usage, and disk io usage, with CPU usage dropping to around 1.5% and RAM usage dropping to around 38%."

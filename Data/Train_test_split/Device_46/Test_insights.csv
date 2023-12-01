@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time. It shows varying levels of resource usage, with some days having higher usage than others.","1. High RAM Usage: The RAM usage is consistently high throughout the month, with an average usage of around 78%. This indicates that the user's computer might be running memory-intensive applications or might need a RAM upgrade for better performance.
+
+2. CPU Usage Variability: The CPU usage shows significant variability, ranging from 13.41% to 42.2%. This suggests that the user's computer workload varies greatly from day to day, possibly due to different types of tasks or applications being used.
+
+3. Disk IO Usage Spikes: There are a few instances of high disk IO usage, such as on 223-3-9 (4.25%) and 223-3-2 (4.36%). These spikes could be related to specific tasks or applications that require heavy disk access, and it might be worth investigating further to optimize the system's performance.","1. On 223-3-18, there is a significant drop in RAM usage to 48.93%, which is much lower compared to other days where the usage is consistently above 74%.
+
+2. On 223-3-2, the CPU usage jumps to 41.68% and RAM usage drops to 56.49%, which is an unusual combination compared to the rest of the dataset.
+
+3. On 223-3-2, the disk IO usage reaches its highest value at 4.36%, which is significantly higher than the average disk IO usage observed in the dataset."

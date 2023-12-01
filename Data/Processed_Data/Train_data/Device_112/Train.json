@@ -1,0 +1,197 @@
+{
+  "Data": [
+    {
+      "date": "2023-03-01",
+      "cpu_usage": 12.0818354271,
+      "ram_usage": 50.3774995622,
+      "diskio_usage": 1.9307489599
+    },
+    {
+      "date": "2023-03-02",
+      "cpu_usage": 12.5422104221,
+      "ram_usage": 41.4511051543,
+      "diskio_usage": 1.7197507352
+    },
+    {
+      "date": "2023-03-03",
+      "cpu_usage": 11.3737589127,
+      "ram_usage": 42.462194196,
+      "diskio_usage": 1.6708095591
+    },
+    {
+      "date": "2023-03-04",
+      "cpu_usage": 13.1952947585,
+      "ram_usage": 49.4720463243,
+      "diskio_usage": 2.27202683
+    },
+    {
+      "date": "2023-03-05",
+      "cpu_usage": 30.9074750609,
+      "ram_usage": 42.7889852072,
+      "diskio_usage": 1.8362211679
+    },
+    {
+      "date": "2023-03-06",
+      "cpu_usage": 27.5101669092,
+      "ram_usage": 33.9575120458,
+      "diskio_usage": 1.6725349132
+    },
+    {
+      "date": "2023-03-07",
+      "cpu_usage": 10.7335887612,
+      "ram_usage": 35.3207381278,
+      "diskio_usage": 1.6560011751
+    },
+    {
+      "date": "2023-03-08",
+      "cpu_usage": 12.3356310255,
+      "ram_usage": 37.0532690736,
+      "diskio_usage": 1.6846122873
+    },
+    {
+      "date": "2023-03-09",
+      "cpu_usage": 10.9078851165,
+      "ram_usage": 37.3204949054,
+      "diskio_usage": 1.8703501803
+    },
+    {
+      "date": "2023-03-10",
+      "cpu_usage": 11.0152345883,
+      "ram_usage": 36.151347429,
+      "diskio_usage": 1.5727501787
+    },
+    {
+      "date": "2023-03-11",
+      "cpu_usage": 11.2206706633,
+      "ram_usage": 37.6654786261,
+      "diskio_usage": 1.6054570091
+    },
+    {
+      "date": "2023-03-12",
+      "cpu_usage": 11.0672651507,
+      "ram_usage": 39.2413043863,
+      "diskio_usage": 1.6359336978
+    },
+    {
+      "date": "2023-03-13",
+      "cpu_usage": 12.4131858282,
+      "ram_usage": 39.9068926358,
+      "diskio_usage": 1.6822918889
+    },
+    {
+      "date": "2023-03-14",
+      "cpu_usage": 12.0850585144,
+      "ram_usage": 39.1664282693,
+      "diskio_usage": 1.7983716023
+    },
+    {
+      "date": "2023-03-15",
+      "cpu_usage": 13.5379264528,
+      "ram_usage": 38.9222025521,
+      "diskio_usage": 1.8866441715
+    },
+    {
+      "date": "2023-03-16",
+      "cpu_usage": 11.8822726312,
+      "ram_usage": 39.2528007653,
+      "diskio_usage": 1.9428674033
+    },
+    {
+      "date": "2023-03-17",
+      "cpu_usage": 12.1350941645,
+      "ram_usage": 40.2490425241,
+      "diskio_usage": 1.7994494318
+    },
+    {
+      "date": "2023-03-18",
+      "cpu_usage": 12.1729619804,
+      "ram_usage": 42.0704424478,
+      "diskio_usage": 1.8224684109
+    },
+    {
+      "date": "2023-03-19",
+      "cpu_usage": 11.8292583954,
+      "ram_usage": 40.5087207269,
+      "diskio_usage": 1.8818618347
+    },
+    {
+      "date": "2023-03-20",
+      "cpu_usage": 11.800335849,
+      "ram_usage": 40.7459956849,
+      "diskio_usage": 1.865943492
+    },
+    {
+      "date": "2023-03-21",
+      "cpu_usage": 14.0690878968,
+      "ram_usage": 42.3296219904,
+      "diskio_usage": 1.8566794197
+    },
+    {
+      "date": "2023-03-22",
+      "cpu_usage": 12.2006830658,
+      "ram_usage": 42.2577170487,
+      "diskio_usage": 1.6468712581
+    },
+    {
+      "date": "2023-03-23",
+      "cpu_usage": 13.356201359,
+      "ram_usage": 42.8113352124,
+      "diskio_usage": 1.7337136812
+    },
+    {
+      "date": "2023-03-24",
+      "cpu_usage": 10.7215293562,
+      "ram_usage": 46.0694639819,
+      "diskio_usage": 2.1954789664
+    },
+    {
+      "date": "2023-03-25",
+      "cpu_usage": 11.9776515561,
+      "ram_usage": 57.7295741238,
+      "diskio_usage": 1.7512227329
+    },
+    {
+      "date": "2023-03-26",
+      "cpu_usage": 11.5349787265,
+      "ram_usage": 67.6160743345,
+      "diskio_usage": 1.8699691049
+    },
+    {
+      "date": "2023-03-27",
+      "cpu_usage": 11.2167618355,
+      "ram_usage": 72.8271334792,
+      "diskio_usage": 1.9493645963
+    },
+    {
+      "date": "2023-03-28",
+      "cpu_usage": 11.123072773,
+      "ram_usage": 72.0616812716,
+      "diskio_usage": 2.159975646
+    },
+    {
+      "date": "2023-03-29",
+      "cpu_usage": 11.7238943087,
+      "ram_usage": 74.5126807777,
+      "diskio_usage": 1.9956628093
+    },
+    {
+      "date": "2023-03-30",
+      "cpu_usage": 21.492416883,
+      "ram_usage": 66.1243644209,
+      "diskio_usage": 2.3179159622
+    },
+    {
+      "date": "2023-03-31",
+      "cpu_usage": 64.1474751928,
+      "ram_usage": 33.8558108943,
+      "diskio_usage": 1.6611337677
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains computer usage information for a single user (serial number 848dab962) throughout March 223, including CPU, RAM, and disk IO usage. It shows varying levels of resource usage, with a significant increase in CPU usage on March 31st (64.15%).",
+      "insight_1": "1. Significant increase in CPU usage: There is a noticeable increase in CPU usage towards the end of the month, with the highest usage of 64.15% on March 31st, which is significantly higher than the average usage in the earlier days of the month.\n\n2. High RAM usage in the last week: The RAM usage shows a considerable increase in the last week of March, with the highest usage of 74.51% on March 29th. This is a substantial increase compared to the usage in the first three weeks of the month, which ranged between 33.96% and 5.38%.\n\n3. Disk IO usage remains relatively stable: Throughout the month, the disk IO usage remains relatively stable, with no significant spikes or drops. The highest disk IO usage is 2.32% on March 3th, and the lowest is 1.57% on March 1th.",
+      "insight_2": "1. On 223-3-5, there is a significant increase in CPU usage to 3.91%, which is much higher than the average CPU usage observed in the dataset.\n2. On 223-3-31, the CPU usage spikes to an even higher value of 64.15%, which is an aberration compared to the rest of the dataset.\n3. From 223-3-25 to 223-3-29, there is a continuous increase in RAM usage, peaking at 74.51% on 223-3-29, which is significantly higher than the average RAM usage observed in the dataset."
+    }
+  ]
+}

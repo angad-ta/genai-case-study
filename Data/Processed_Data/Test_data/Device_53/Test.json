@@ -1,0 +1,113 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 20.9761367488,
+      "ram_usage": 84.572164108,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 19.0195518001,
+      "ram_usage": 83.9420379144,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 23.9057674137,
+      "ram_usage": 87.2014340441,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-04",
+      "cpu_usage": 17.9803586086,
+      "ram_usage": 86.428468334,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-05",
+      "cpu_usage": 16.2386438805,
+      "ram_usage": 82.5408310851,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 17.9239746337,
+      "ram_usage": 83.034568502,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 15.3564195783,
+      "ram_usage": 85.1490476635,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 16.2740761448,
+      "ram_usage": 84.9947255384,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-11",
+      "cpu_usage": 15.5631885126,
+      "ram_usage": 84.8640987413,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 18.4817711297,
+      "ram_usage": 82.5258582434,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 20.3988236102,
+      "ram_usage": 83.0410374939,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 15.9845768364,
+      "ram_usage": 83.4770084277,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 19.6557844669,
+      "ram_usage": 84.641537328,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 20.5225038613,
+      "ram_usage": 84.3530765847,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 21.3982913945,
+      "ram_usage": 86.0586406295,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 23.4444104505,
+      "ram_usage": 86.2635980064,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 15.3262193304,
+      "ram_usage": 79.8856125209,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over several days in August 222. It shows varying levels of CPU and RAM usage, with disk IO usage data missing.",
+      "insight_1": "1. Inconsistent Disk IO Usage Data: The diskio_usage column has no data (NaN) for all the entries, indicating that there might be an issue with data collection or reporting for this metric.\n\n2. High RAM Usage: The RAM usage for the user with serial number 489d787e1e is consistently high, ranging from 79.89% to 87.2% throughout August 222. This could indicate that the user is running memory-intensive applications or might need a RAM upgrade.\n\n3. CPU Usage Fluctuations: The CPU usage for the same user varies between 15.33% and 23.91% during the same period. While the fluctuations are not extreme, it might be worth investigating the user's activities or applications to understand the cause of these variations.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This indicates that there might be an issue with data collection or recording for this particular field.\n\n2. CPU Usage Variation: The CPU usage varies significantly across the dates, with the highest usage being 23.95767 on 222-8-3 and the lowest usage being 15.326219 on 222-8-31. This could indicate fluctuations in the user's computer activity or potential performance issues.\n\n3. RAM Usage Consistently High: The RAM usage is consistently high throughout the dataset, with the lowest value being 79.885613 on 222-8-31 and the highest value being 87.21434 on 222-8-3. This could indicate that the user's computer is running memory-intensive applications or has insufficient RAM to handle the workload."
+    }
+  ]
+}

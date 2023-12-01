@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a month. It shows fluctuations in resource usage, with significant spikes in CPU usage on certain days.","1. Significant CPU usage spike: There is a noticeable increase in CPU usage starting from 223-3-1, peaking at 56.22% on 223-3-2, and then dropping back to lower levels around 4% by 223-3-22. This could indicate a resource-intensive task or application running during that period.
+
+2. High RAM usage during CPU spike: During the period of increased CPU usage (223-3-1 to 223-3-21), RAM usage also increased significantly, reaching a peak of 9.8% on 223-3-12. This suggests that the task or application causing the CPU spike was also consuming a large amount of memory.
+
+3. Disk IO usage remains relatively stable: Despite the fluctuations in CPU and RAM usage, disk IO usage remained relatively stable throughout the entire period, with only minor variations. This indicates that the task or application causing the CPU and RAM spike did not involve significant disk read/write operations.","1. On 223-3-15, there is a significant increase in CPU usage to 44.97%, which is much higher than the previous days and deviates from the general trend.
+
+2. Between 223-3-1 and 223-3-14, there is a noticeable increase in both CPU and RAM usage, with CPU usage peaking at 19.99% and RAM usage at 9.8%.
+
+3. On 223-3-16 and 223-3-17, the CPU usage remains consistently high at around 56%, while the RAM usage drops significantly to around 44-45%, which is an unusual combination compared to the rest of the dataset."

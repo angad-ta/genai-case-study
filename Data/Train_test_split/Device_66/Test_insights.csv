@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's daily disk IO usage on a computer from April 26, 222, to May 14, 222. It shows an overall increasing trend in disk IO usage over this period.","1. The disk IO usage has been consistently increasing over the given period, from 15.68 on 4/26/222 to 22.46 on 5/14/222.
+2. The highest disk IO usage was recorded on 5/14/222 with a value of 22.459484.
+3. The lowest disk IO usage was observed on 4/28/222 with a value of 1.4427.","Based on the provided data, the top 3 aberrations in diskio_usage are:
+
+1. The increase from 11.2545 on 4/29/222 to 2.646738 on 5/13/222, which is an increase of 9.626193.
+2. The increase from 1.4427 on 4/28/222 to 18.213924 on 5/8/222, which is an increase of 7.89897.
+3. The increase from 13.124234 on 5/3/222 to 19.357726 on 5/11/222, which is an increase of 6.233492."

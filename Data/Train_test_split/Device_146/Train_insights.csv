@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains information about a computer's daily CPU, RAM, and disk IO usage for the user with serial number 'ae9ccb6bf6' in March 223. It shows an increase in resource usage towards the end of the month, with the highest values on March 27th and 28th.","1. Significant increase in resource usage towards the end of the month: There is a noticeable increase in CPU, RAM, and Disk IO usage from March 22nd to March 28th. The peak usage occurs on March 28th with 54.75% CPU usage, 91.21% RAM usage, and 8.69% Disk IO usage.
+
+2. High RAM usage throughout the month: The RAM usage remains consistently high, ranging from 53.76% to 98.4%. This indicates that the computer might be running memory-intensive applications or processes during this period.
+
+3. Lower resource usage at the beginning and end of the month: The CPU, RAM, and Disk IO usage are relatively lower during the first week (March 1st to March 7th) and the last few days (March 29th to March 31st) of the month. This could suggest a pattern of lower workload or less intensive tasks during these periods.","1. On 223-3-28, there is a significant increase in CPU usage (54.75%), Disk IO usage (8.69%), and a decrease in RAM usage (91.21%) compared to the previous days.
+2. On 223-3-27, there is a notable increase in CPU usage (3.68%) and Disk IO usage (58.1%) compared to the previous days.
+3. On 223-3-26, there is a considerable increase in CPU usage (21.7%) and Disk IO usage (22.46%) compared to the previous days."

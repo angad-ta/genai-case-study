@@ -1,0 +1,107 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 56.8940574338,
+      "ram_usage": 41.8296808993,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 26.2172152715,
+      "ram_usage": 40.8564752533,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 32.5163469744,
+      "ram_usage": 38.0009015346,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-11",
+      "cpu_usage": 21.0482714421,
+      "ram_usage": 37.0120173961,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 4.5987587681,
+      "ram_usage": 32.6474012955,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-13",
+      "cpu_usage": 3.2722170968,
+      "ram_usage": 35.0196731808,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-14",
+      "cpu_usage": 2.8965608605,
+      "ram_usage": 33.549704735,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 2.7727111168,
+      "ram_usage": 32.1714878574,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 19.9573250067,
+      "ram_usage": 42.9128276747,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 19.2577667026,
+      "ram_usage": 47.8407989095,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 16.7042620438,
+      "ram_usage": 46.7198532167,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 20.8244418381,
+      "ram_usage": 45.0741951098,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 16.6778916489,
+      "ram_usage": 44.3331544694,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-27",
+      "cpu_usage": 10.2002151656,
+      "ram_usage": 47.4387794793,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-28",
+      "cpu_usage": 7.2039999134,
+      "ram_usage": 45.9157215152,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 10.1215311287,
+      "ram_usage": 47.0431864219,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 222. It shows a general decrease in CPU usage over time, while RAM usage remains relatively stable, and disk IO usage data is missing.",
+      "insight_1": "1. CPU usage decline: The CPU usage for user e7c525997 has significantly decreased over the given period. It started at 56.89% on August 1st and dropped to 1.12% on August 29th. This could indicate a change in the user's computer usage patterns or a possible improvement in system performance.\n\n2. RAM usage fluctuations: The RAM usage for user e7c525997 has shown fluctuations throughout the month, with the highest usage at 47.84% on August 18th and the lowest at 32.17% on August 15th. This could be due to varying workloads or different applications being used on different days.\n\n3. Missing disk IO usage data: The disk IO usage data is missing (NaN) for all the entries in the table. This information is crucial for understanding the overall system performance and should be investigated to ensure accurate data collection and analysis.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This indicates that there might be an issue with data collection or recording for this particular field.\n\n2. CPU Usage Variability: The 'cpu_usage' column shows significant variability, ranging from as low as 2.77% to as high as 56.89%. This could indicate inconsistent computer usage patterns or potential performance issues.\n\n3. RAM Usage Trend: The 'ram_usage' column shows a general increasing trend from 32.17% to 47.84% over the given time period. This might suggest that the user is running more resource-intensive applications or experiencing memory leaks over time."
+    }
+  ]
+}

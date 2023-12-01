@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a computer's daily CPU, RAM, and disk IO usage for the month of March 223. It shows varying levels of resource usage, with a significant spike in CPU and disk IO usage on March 22nd.","1. The highest CPU usage was observed on 223-3-22 with 48.74%, which is significantly higher than the average CPU usage for the given period. This could indicate an unusual event or high workload on that day.
+
+2. The RAM usage remains consistently high throughout the month, averaging around 85%. This could suggest that the computer might need a RAM upgrade to handle the workload more efficiently.
+
+3. There is a noticeable drop in RAM usage on 223-3-24 and 223-3-25, with values of 47.89% and 51.96% respectively. This could indicate that the computer was used for less resource-intensive tasks on those days or was idle for a significant amount of time.","1. On 223-3-22, there is a significant spike in CPU usage (48.74%) and Disk IO usage (35.64%) compared to the surrounding dates. This indicates an unusual event or activity on this day.
+
+2. On 223-3-24, there is a noticeable drop in RAM usage (47.89%) compared to the previous day (86.19%) and the following day (51.96%). This suggests a possible change in the user's activity or an issue with the computer.
+
+3. On 223-3-26, the RAM usage rises again to 74.92% compared to the previous day (51.96%) and the following day (82.6%). This indicates another instance of unusual activity or a potential issue with the computer."

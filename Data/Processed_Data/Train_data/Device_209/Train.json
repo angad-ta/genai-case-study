@@ -1,0 +1,119 @@
+{
+  "Data": [
+    {
+      "date": "2022-06-12",
+      "cpu_usage": 29.18021176,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-14",
+      "cpu_usage": 28.11679709,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-16",
+      "cpu_usage": 33.49193283,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-18",
+      "cpu_usage": 33.53229106,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-20",
+      "cpu_usage": 34.87799253,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-22",
+      "cpu_usage": 37.26196804,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-24",
+      "cpu_usage": 39.70669322,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-26",
+      "cpu_usage": 46.4870111,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-28",
+      "cpu_usage": 45.50828274,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-30",
+      "cpu_usage": 46.26167025,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-02",
+      "cpu_usage": 49.41693787,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-04",
+      "cpu_usage": 51.85953511,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-06",
+      "cpu_usage": 58.65599037,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-08",
+      "cpu_usage": 60.27812729,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-10",
+      "cpu_usage": 58.50372862,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-12",
+      "cpu_usage": 64.83460879,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-14",
+      "cpu_usage": 64.15617047,
+      "ram_usage": null,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-16",
+      "cpu_usage": 65.2509658,
+      "ram_usage": null,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's CPU usage over time, identified by their serial number. It shows an increasing trend in CPU usage from 29.18% on 6/12/222 to 65.25% on 7/16/222.",
+      "insight_1": "1. CPU usage increase: The CPU usage for user f669b9df79 has been consistently increasing over the given period, starting from 29.18% on 6/12/222 and reaching 65.25% on 7/16/222.\n\n2. Highest CPU usage: The highest CPU usage recorded for user f669b9df79 was 65.25% on 7/16/222.\n\n3. Rapid growth period: The CPU usage experienced a rapid growth between 6/22/222 (37.26%) and 7/6/222 (58.66%), with an increase of 21.4 percentage points in just two weeks.",
+      "insight_2": "Based on the provided data, the top 3 aberrations in CPU usage are:\n\n1. The CPU usage increased significantly from 51.86% on 7/4/222 to 58.66% on 7/6/222, with an increase of 6.8%.\n2. Another noticeable increase in CPU usage occurred between 6/24/222 (39.71%) and 6/26/222 (46.49%), with a 6.78% increase.\n3. The CPU usage also increased from 46.26% on 6/3/222 to 49.42% on 7/2/222, with a 3.16% increase."
+    }
+  ]
+}

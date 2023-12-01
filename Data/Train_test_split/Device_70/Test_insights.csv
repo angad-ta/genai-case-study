@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in March 223. It shows fluctuations in resource usage, with a general decrease in CPU and RAM usage towards the middle of the month.","1. Significant drop in resource usage: There is a noticeable drop in CPU, RAM, and disk IO usage on 223-3-18, 223-3-19, and 223-3-2 compared to the previous days. The CPU usage drops from 18.3% to below 4%, RAM usage decreases from around 52% to below 32%, and disk IO usage falls to below 1%.
+
+2. CPU and RAM usage correlation: There seems to be a positive correlation between CPU usage and RAM usage. When CPU usage is higher, RAM usage also tends to be higher, and vice versa. For example, on 223-3-1, CPU usage is 33.13% and RAM usage is 6.98%, while on 223-3-8, CPU usage is 8.43% and RAM usage is 59.29%.
+
+3. Disk IO usage variability: Disk IO usage shows more variability compared to CPU and RAM usage. It ranges from as low as .4% on 223-3-18 to as high as 12.45% on 223-3-1. This indicates that disk IO usage might be more dependent on specific tasks or applications being used on the computer.","1. Significant drop in CPU, RAM, and Disk IO usage on 223-3-18, 223-3-19, and 223-3-2: The CPU usage dropped to 3.88%, 2.2%, and 2.79% respectively, RAM usage dropped to 31.47%, 29.52%, and 27.66% respectively, and Disk IO usage dropped to .4%, .57%, and .67% respectively. This sudden decrease in usage could indicate a potential issue or change in usage pattern during these dates.
+
+2. High RAM usage on 223-3-1, 223-3-3, and 223-3-6: The RAM usage on these dates was 6.98%, 61.76%, and 59.85% respectively, which is higher compared to the rest of the dates in the dataset. This could indicate increased workload or memory-intensive tasks being performed during these dates.
+
+3. High Disk IO usage on 223-3-1 and 223-3-13: The Disk IO usage on these dates was 12.45% and 9.35% respectively, which is significantly higher compared to the other dates in the dataset. This could suggest that there were more disk-intensive tasks or data transfers happening on these dates."

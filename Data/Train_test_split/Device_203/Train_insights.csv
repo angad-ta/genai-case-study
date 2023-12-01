@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer RAM usage over time, identified by their serial number. It shows that the user's RAM usage fluctuates between 76.9% and 98.4% from April to August 222.","1. High RAM Usage: The user's computer consistently experiences high RAM usage, with most values above 8%. This could indicate that the user is running resource-intensive applications or has insufficient RAM for their needs.
+
+2. Peak RAM Usage: The highest RAM usage recorded is 98.398824% on 8/7/222, which is very close to the maximum capacity. This could lead to performance issues or crashes if not addressed.
+
+3. Lowest RAM Usage: The lowest RAM usage recorded is 76.91455% on 7/2/222. Even at its lowest point, the RAM usage is still relatively high, reinforcing the need for the user to consider upgrading their RAM or optimizing their applications.","After analyzing the dataset, the top 3 aberrations in RAM usage are as follows:
+
+1. The highest RAM usage of 98.398824% was recorded on 8/7/222.
+2. The second-highest RAM usage of 98.195% occurred on 5/3/222.
+3. The third-highest RAM usage of 97.818248% was observed on 7/14/222."

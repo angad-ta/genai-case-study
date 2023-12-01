@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time. It shows fluctuations in resource usage, with a noticeable drop in CPU usage from March 17th to March 31st.","1. Significant drop in CPU usage: There is a noticeable decrease in CPU usage starting from 223-3-17, with the lowest usage recorded on 223-3-18 at 1.17%. This could indicate a change in the user's activity or a possible issue with the computer.
+
+2. Consistently high RAM usage: Throughout the month, the RAM usage remains relatively high, ranging between 41.34% and 65.28%. This suggests that the user is consistently running memory-intensive applications or has limited available RAM.
+
+3. Disk IO usage remains stable: The disk IO usage remains fairly stable throughout the month, with a range between 1.32% and 1.94%. This indicates that the user's disk activity is consistent and not experiencing any significant fluctuations.","1. There is a significant drop in CPU usage from 58.77% on 223-3-17 to 1.17% on 223-3-18, which is a decrease of 48.6%.
+2. RAM usage also experiences a considerable drop from 61.61% on 223-3-17 to 42.62% on 223-3-18, a decrease of 18.99%.
+3. Disk IO usage shows an unusual increase from 1.33 on 223-3-19 to 1.83 on 223-3-3, despite the CPU and RAM usage remaining relatively low during this period."

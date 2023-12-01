@@ -1,0 +1,101 @@
+{
+  "Data": [
+    {
+      "date": "2022-03-08",
+      "cpu_usage": null,
+      "ram_usage": 31.85033777,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-10",
+      "cpu_usage": null,
+      "ram_usage": 36.725792,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-12",
+      "cpu_usage": null,
+      "ram_usage": 30.4728288,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-14",
+      "cpu_usage": null,
+      "ram_usage": 29.59125875,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-16",
+      "cpu_usage": null,
+      "ram_usage": 32.31266433,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-18",
+      "cpu_usage": null,
+      "ram_usage": 32.41856732,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-20",
+      "cpu_usage": null,
+      "ram_usage": 26.75961777,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-22",
+      "cpu_usage": null,
+      "ram_usage": 25.1679815,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-24",
+      "cpu_usage": null,
+      "ram_usage": 27.70093105,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-26",
+      "cpu_usage": null,
+      "ram_usage": 22.58649295,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-28",
+      "cpu_usage": null,
+      "ram_usage": 26.00701946,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-03-30",
+      "cpu_usage": null,
+      "ram_usage": 20.31545841,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-01",
+      "cpu_usage": null,
+      "ram_usage": 24.38884571,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-03",
+      "cpu_usage": null,
+      "ram_usage": 22.29519724,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-04-05",
+      "cpu_usage": null,
+      "ram_usage": 21.00391695,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer RAM usage over time, identified by their serial number. It shows that the RAM usage fluctuates between 2.31% and 36.73% from March 8th to April 5th, 222.",
+      "insight_1": "1. The highest RAM usage was on 3/1/222 with 36.73% usage.\n2. The lowest RAM usage was on 3/3/222 with 2.32% usage.\n3. The average RAM usage across the given period is approximately 28.7%.",
+      "insight_2": "Based on the provided data, the top 3 aberrations in RAM usage are:\n\n1. The highest RAM usage of 36.73% on 3/1/222.\n2. The second-highest RAM usage of 32.42% on 3/18/222.\n3. The third-highest RAM usage of 32.31% on 3/16/222."
+    }
+  ]
+}

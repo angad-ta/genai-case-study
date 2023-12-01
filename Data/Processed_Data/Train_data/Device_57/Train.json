@@ -1,0 +1,197 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 4.7235853859,
+      "ram_usage": 80.7858487961,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 6.2573319904,
+      "ram_usage": 80.2421900071,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 7.1415281052,
+      "ram_usage": 73.8704924063,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-04",
+      "cpu_usage": 6.3060446166,
+      "ram_usage": 72.7433764476,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-05",
+      "cpu_usage": 5.7554431838,
+      "ram_usage": 65.2671124177,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-06",
+      "cpu_usage": 5.7912514121,
+      "ram_usage": 73.7191175693,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-07",
+      "cpu_usage": 3.7430628642,
+      "ram_usage": 73.6013614687,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 3.3139111714,
+      "ram_usage": 75.8149962578,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 4.6912418013,
+      "ram_usage": 76.4037773678,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 3.349930125,
+      "ram_usage": 75.1203152014,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-11",
+      "cpu_usage": 5.456216809,
+      "ram_usage": 79.8125723439,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 5.9816915434,
+      "ram_usage": 75.9150228047,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-13",
+      "cpu_usage": 6.8505852605,
+      "ram_usage": 80.8923417031,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-14",
+      "cpu_usage": 4.5277766325,
+      "ram_usage": 84.3206619077,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 4.2118845038,
+      "ram_usage": 85.444681161,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 5.1032750986,
+      "ram_usage": 86.6265116594,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 5.8222453111,
+      "ram_usage": 77.0634116248,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 5.4661680519,
+      "ram_usage": 76.5357147779,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 5.0089496037,
+      "ram_usage": 74.8866848779,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-20",
+      "cpu_usage": 4.4963887982,
+      "ram_usage": 77.1280525702,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-21",
+      "cpu_usage": 2.9968337402,
+      "ram_usage": 76.622618416,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 2.9995042413,
+      "ram_usage": 79.7930461066,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 4.8304880623,
+      "ram_usage": 79.3626855642,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 3.7498794454,
+      "ram_usage": 78.1117805797,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 5.2540612708,
+      "ram_usage": 78.7534184334,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 7.0164168906,
+      "ram_usage": 82.2628802661,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-27",
+      "cpu_usage": 6.4992281093,
+      "ram_usage": 81.5319220406,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-28",
+      "cpu_usage": 4.8229201701,
+      "ram_usage": 83.1909924125,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 4.6590088164,
+      "ram_usage": 84.6257218737,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 7.2058244376,
+      "ram_usage": 86.9702970523,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 5.5252858212,
+      "ram_usage": 85.3890980446,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains computer usage information for a single user (serial number 4bb8823ae4) throughout August 222, including daily CPU usage, RAM usage, and missing disk IO usage values. The user's RAM usage remains consistently high (65-87%), while CPU usage varies between 2.99% and 7.21%.",
+      "insight_1": "1. Inconsistent CPU Usage: The CPU usage varies significantly throughout the month, with the lowest usage at 2.996834% and the highest at 7.25824%. This indicates that the user's computer usage patterns are not consistent, and they may be running different types of applications or tasks on different days.\n\n2. High RAM Usage: The RAM usage remains consistently high throughout the month, ranging from 65.267112% to 86.97297%. This suggests that the user's computer may have insufficient memory or is running memory-intensive applications, which could lead to performance issues.\n\n3. Missing Disk IO Usage Data: The disk io usage data is missing (NaN) for all the entries in the table. This makes it impossible to analyze the disk io usage patterns and identify any potential issues related to disk performance. It is recommended to investigate the reason for the missing data and ensure that it is collected in the future.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This could lead to inaccurate analysis and insights related to disk io usage.\n\n2. CPU Usage Variation: The CPU usage varies significantly throughout the dataset, with the lowest value being 2.996834 and the highest value being 7.25824. This indicates that the computer's CPU usage is not consistent and may require further investigation.\n\n3. RAM Usage Fluctuations: The RAM usage also shows fluctuations, with the lowest value being 65.267112 and the highest value being 86.97297. This could indicate that the computer's RAM usage is not stable and may require optimization or investigation into the processes consuming the memory."
+    }
+  ]
+}

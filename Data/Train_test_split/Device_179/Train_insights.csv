@@ -1,0 +1,10 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a month. It shows varying levels of resource usage, with some days having significantly higher CPU and RAM usage than others.","1. Significant increase in CPU usage: There is a noticeable increase in CPU usage starting from August 4th, with the highest usage recorded on August 9th at 9.61%. This could indicate a change in the user's activities or the presence of resource-intensive applications.
+
+2. High RAM usage throughout the month: The RAM usage remains consistently high, ranging from 49.98% to 86.19%. This suggests that the computer is running multiple applications or processes that consume a significant amount of memory.
+
+3. Missing disk IO usage data: The diskio_usage column has no data (NaN) for all the entries. This information is crucial for understanding the overall performance of the computer and should be investigated to ensure accurate analysis.","1. High CPU usage: The CPU usage shows significant fluctuations, with values ranging from around 5% to over 9%. This indicates that there might be some processes or applications causing high CPU usage on certain days.
+
+2. High RAM usage: The RAM usage also varies considerably, with values ranging from around 5% to over 86%. This suggests that there might be memory-intensive applications or processes running on the computer on specific days.
+
+3. Missing disk IO usage data: The diskio_usage column has NaN values for all the entries, indicating that the data for disk IO usage is missing or not recorded. This makes it impossible to analyze the disk IO usage patterns for the given dataset."

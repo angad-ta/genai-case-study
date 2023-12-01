@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains information about a computer's daily CPU, RAM, and disk IO usage for the month of March 223. It shows varying levels of resource usage, with RAM usage consistently above 5% and CPU usage mostly below 6%.","1. The highest CPU usage was recorded on 223-3-13 at 5.737159, which is significantly higher than the average CPU usage for the month.
+2. The lowest RAM usage occurred on 223-3-5 at 5.42943, which is considerably lower than the average RAM usage for the month.
+3. The highest disk IO usage was observed on 223-3-13 at 3.33453, which is notably higher than the average disk IO usage for the month.","1. On 223-3-5, there is a significant drop in CPU usage (2.435269) and RAM usage (5.42943) compared to the surrounding dates. This could indicate a lower workload or system maintenance on that day.
+
+2. On 223-3-13, the disk IO usage (3.33453) is considerably higher than the values on the surrounding dates. This could be due to increased file transfers or disk-intensive tasks on that day.
+
+3. On 223-3-15, the disk IO usage (3.228191) is again higher than the surrounding dates, indicating another day with increased disk-intensive tasks or file transfers."

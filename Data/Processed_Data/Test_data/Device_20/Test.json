@@ -1,0 +1,137 @@
+{
+  "Data": [
+    {
+      "date": "2022-05-16",
+      "cpu_usage": null,
+      "ram_usage": 87.96623335,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-23",
+      "cpu_usage": null,
+      "ram_usage": 98.55734172,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-05-30",
+      "cpu_usage": null,
+      "ram_usage": 98.44031493,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-06",
+      "cpu_usage": null,
+      "ram_usage": 77.06244247,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-13",
+      "cpu_usage": null,
+      "ram_usage": 77.81928109,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-20",
+      "cpu_usage": null,
+      "ram_usage": 97.39578254,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-06-27",
+      "cpu_usage": null,
+      "ram_usage": 89.64081692,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-04",
+      "cpu_usage": null,
+      "ram_usage": 89.49948235,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-11",
+      "cpu_usage": null,
+      "ram_usage": 88.71740466,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-18",
+      "cpu_usage": null,
+      "ram_usage": 88.09501026,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-07-25",
+      "cpu_usage": null,
+      "ram_usage": 96.08157945,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-01",
+      "cpu_usage": null,
+      "ram_usage": 92.25629772,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": null,
+      "ram_usage": 79.60236872,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": null,
+      "ram_usage": 88.23442796,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": null,
+      "ram_usage": 95.32807661,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": null,
+      "ram_usage": 82.69667303,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-05",
+      "cpu_usage": null,
+      "ram_usage": 92.91382843,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-12",
+      "cpu_usage": null,
+      "ram_usage": 93.78026706,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-19",
+      "cpu_usage": null,
+      "ram_usage": 95.8626985,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-09-26",
+      "cpu_usage": null,
+      "ram_usage": 91.63985188,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-10-03",
+      "cpu_usage": null,
+      "ram_usage": 95.32702101,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer RAM usage over time, identified by their serial number. It shows that the RAM usage fluctuates between 77% and 98% from May 16, 222, to October 3, 222.",
+      "insight_1": "1. High RAM Usage: The user with serial number 1c786e3ed consistently has high RAM usage, with most values above 8%. This could indicate that the user is running resource-intensive applications or has insufficient RAM for their needs.\n\n2. Peak RAM Usage: The highest RAM usage recorded for this user was 98.557342% on 5/23/222, followed closely by 98.44315% on 5/3/222. These instances may require further investigation to determine the cause of such high usage.\n\n3. Lowest RAM Usage: The lowest RAM usage recorded for this user was 77.62442% on 6/6/222. This is still relatively high compared to the other values, suggesting that the user's computer consistently operates with high RAM usage.",
+      "insight_2": "Based on the provided data, the top 3 aberrations in RAM usage are:\n\n1. The significant drop in RAM usage from 98.44315 on 5/3/222 to 77.62442 on 6/6/222.\n2. The increase in RAM usage from 77.819281 on 6/13/222 to 97.395783 on 6/2/222.\n3. The decrease in RAM usage from 96.81579 on 7/25/222 to 79.62369 on 8/8/222."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer RAM usage over time, identified by their serial number. It shows that the user's RAM usage generally fluctuates between 6% and 1% from March to August 222.","1. The highest RAM usage was recorded on 6/3/222 with 99.88658% usage.
+2. The lowest RAM usage was observed on 8/7/222 with 6.14887% usage.
+3. There is a general decreasing trend in RAM usage from 6/3/222 to 8/7/222, indicating a possible reduction in computer usage or resource-intensive tasks during this period.","After analyzing the dataset, the top 3 aberrations in the RAM usage are:
+
+1. The highest RAM usage of 99.89% on 6/3/222.
+2. The second-highest RAM usage of 98.37% on 5/29/222.
+3. The lowest RAM usage of 6.1% on 8/7/222."

@@ -1,0 +1,83 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 0.1616536333,
+      "ram_usage": 40.9920300016,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 1.0339226243,
+      "ram_usage": 30.8112490419,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 0.5549169503,
+      "ram_usage": 27.101927963,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 1.2742069073,
+      "ram_usage": 27.8661914536,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 1.2163130054,
+      "ram_usage": 28.7667175645,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 0.2996730772,
+      "ram_usage": 26.4980412904,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 0.4891787822,
+      "ram_usage": 26.4398548587,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 0.151364826,
+      "ram_usage": 27.7482319887,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 1.2670334695,
+      "ram_usage": 25.7300533244,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 0.5022987653,
+      "ram_usage": 28.1241596389,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 0.2961140899,
+      "ram_usage": 25.7030917748,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 0.1989831238,
+      "ram_usage": 28.3904141402,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 222. It shows fluctuating usage levels, with missing disk IO usage data.",
+      "insight_1": "1. The user with serial number '74c388c3a9' has consistently used the computer throughout August 222, with usage recorded on 12 different dates.\n\n2. The average CPU usage for this user is relatively low, with the highest CPU usage recorded at 1.27427 on August 18th, 222. Most of the other days have CPU usage below 1.\n\n3. The RAM usage for this user varies between 25.7392 and 4.9923, with the highest RAM usage recorded on August 1th, 222. The RAM usage seems to be more consistent compared to CPU usage, staying within a range of approximately 25 to 4.\n\nNote: The disk io usage data is missing (NaN) for all the records, so no insights can be drawn from that field.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This could lead to inaccurate analysis and insights.\n\n2. CPU Usage Variability: The 'cpu_usage' column shows significant variability, ranging from .15 to 1.27. This could indicate inconsistent computer performance or varying workloads.\n\n3. RAM Usage Fluctuation: The 'ram_usage' column also exhibits fluctuations, with values ranging from 25.7 to 4.99. This might suggest that the user's computer experiences varying levels of memory usage, possibly due to different types of tasks being performed."
+    }
+  ]
+}

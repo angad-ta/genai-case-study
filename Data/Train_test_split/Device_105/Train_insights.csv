@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over time. It shows varying levels of resource usage, with some days having higher usage than others.","1. The highest resource usage day: On 223-3-6, the computer experienced its highest CPU usage (23.199353), and disk IO usage (32.357451) compared to other days in the dataset. This indicates that this day had the most intensive workload.
+
+2. Increasing RAM usage trend: Over the period, there is a general upward trend in RAM usage, starting at 49.562213 on 223-3-1 and reaching 65.597932 on 223-3-31. This could suggest that the user is running more memory-intensive applications or tasks as time progresses.
+
+3. CPU usage variability: The CPU usage varies significantly throughout the period, with the lowest usage at 6.33559 on 223-3-3 and the highest at 23.199353 on 223-3-6. This indicates that the computer's workload is not consistent and may require further investigation to optimize performance.","1. On 223-3-6, there is a significant spike in diskio_usage at 32.357451, which is much higher than the values on other days.
+2. On 223-3-24, the diskio_usage is also relatively high at 7.435187 compared to the surrounding days.
+3. On 223-3-3 and 223-3-31, the cpu_usage is notably higher at 23.87979 and 13.183574, respectively, while the ram_usage is also higher at 65.386331 and 65.597932, respectively."

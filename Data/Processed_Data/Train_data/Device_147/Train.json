@@ -1,0 +1,197 @@
+{
+  "Data": [
+    {
+      "date": "2023-03-01",
+      "cpu_usage": 67.5129443701,
+      "ram_usage": 59.8425545147,
+      "diskio_usage": 1.7000272986
+    },
+    {
+      "date": "2023-03-02",
+      "cpu_usage": 68.037030314,
+      "ram_usage": 58.7236685563,
+      "diskio_usage": 1.8435471163
+    },
+    {
+      "date": "2023-03-03",
+      "cpu_usage": 67.0222812413,
+      "ram_usage": 62.0036269799,
+      "diskio_usage": 1.6694964717
+    },
+    {
+      "date": "2023-03-04",
+      "cpu_usage": 67.1168327983,
+      "ram_usage": 62.2799205624,
+      "diskio_usage": 1.6571470975
+    },
+    {
+      "date": "2023-03-05",
+      "cpu_usage": 65.2052574785,
+      "ram_usage": 62.5969461239,
+      "diskio_usage": 1.4837250861
+    },
+    {
+      "date": "2023-03-06",
+      "cpu_usage": 66.0591177422,
+      "ram_usage": 62.1068962661,
+      "diskio_usage": 1.5576181454
+    },
+    {
+      "date": "2023-03-07",
+      "cpu_usage": 69.3709332119,
+      "ram_usage": 60.0121271651,
+      "diskio_usage": 1.7446506477
+    },
+    {
+      "date": "2023-03-08",
+      "cpu_usage": 68.1673378445,
+      "ram_usage": 61.6941440307,
+      "diskio_usage": 1.6708396778
+    },
+    {
+      "date": "2023-03-09",
+      "cpu_usage": 65.7293029503,
+      "ram_usage": 62.4048866534,
+      "diskio_usage": 1.7355719045
+    },
+    {
+      "date": "2023-03-10",
+      "cpu_usage": 65.2145730934,
+      "ram_usage": 52.5658517695,
+      "diskio_usage": 1.4437575207
+    },
+    {
+      "date": "2023-03-11",
+      "cpu_usage": 63.9866343228,
+      "ram_usage": 55.6429283565,
+      "diskio_usage": 1.3589421717
+    },
+    {
+      "date": "2023-03-12",
+      "cpu_usage": 64.1889595903,
+      "ram_usage": 57.342146191,
+      "diskio_usage": 1.3203720624
+    },
+    {
+      "date": "2023-03-13",
+      "cpu_usage": 65.1916388238,
+      "ram_usage": 57.7894662405,
+      "diskio_usage": 1.3852409422
+    },
+    {
+      "date": "2023-03-14",
+      "cpu_usage": 65.1734232534,
+      "ram_usage": 59.6809328886,
+      "diskio_usage": 1.5007258541
+    },
+    {
+      "date": "2023-03-15",
+      "cpu_usage": 67.6389734132,
+      "ram_usage": 65.2821994419,
+      "diskio_usage": 1.8342222724
+    },
+    {
+      "date": "2023-03-16",
+      "cpu_usage": 68.6886154339,
+      "ram_usage": 63.842384732,
+      "diskio_usage": 1.7767599355
+    },
+    {
+      "date": "2023-03-17",
+      "cpu_usage": 58.7771704512,
+      "ram_usage": 61.6120693446,
+      "diskio_usage": 1.8596951156
+    },
+    {
+      "date": "2023-03-18",
+      "cpu_usage": 10.1729720364,
+      "ram_usage": 42.6213551522,
+      "diskio_usage": 1.3554275872
+    },
+    {
+      "date": "2023-03-19",
+      "cpu_usage": 10.3794161172,
+      "ram_usage": 45.3588718705,
+      "diskio_usage": 1.3311756984
+    },
+    {
+      "date": "2023-03-20",
+      "cpu_usage": 19.7561689575,
+      "ram_usage": 47.8570669932,
+      "diskio_usage": 1.5157635125
+    },
+    {
+      "date": "2023-03-21",
+      "cpu_usage": 41.2313276723,
+      "ram_usage": 57.5765151327,
+      "diskio_usage": 1.6620954225
+    },
+    {
+      "date": "2023-03-22",
+      "cpu_usage": 41.2884027103,
+      "ram_usage": 61.2922064249,
+      "diskio_usage": 1.8951338891
+    },
+    {
+      "date": "2023-03-23",
+      "cpu_usage": 14.8663488886,
+      "ram_usage": 52.5263352171,
+      "diskio_usage": 1.6692269959
+    },
+    {
+      "date": "2023-03-24",
+      "cpu_usage": 13.893877308,
+      "ram_usage": 60.2158578551,
+      "diskio_usage": 1.8182448796
+    },
+    {
+      "date": "2023-03-25",
+      "cpu_usage": 12.7916821454,
+      "ram_usage": 60.4507367431,
+      "diskio_usage": 1.6302724294
+    },
+    {
+      "date": "2023-03-26",
+      "cpu_usage": 11.8238058998,
+      "ram_usage": 60.5071407189,
+      "diskio_usage": 1.7547096331
+    },
+    {
+      "date": "2023-03-27",
+      "cpu_usage": 13.0077162611,
+      "ram_usage": 61.0117908443,
+      "diskio_usage": 1.6889122897
+    },
+    {
+      "date": "2023-03-28",
+      "cpu_usage": 11.6118232087,
+      "ram_usage": 61.0338180028,
+      "diskio_usage": 1.6777969051
+    },
+    {
+      "date": "2023-03-29",
+      "cpu_usage": 13.0207585508,
+      "ram_usage": 59.720089021,
+      "diskio_usage": 1.9417892096
+    },
+    {
+      "date": "2023-03-30",
+      "cpu_usage": 10.9632694575,
+      "ram_usage": 44.7107346055,
+      "diskio_usage": 1.8324387789
+    },
+    {
+      "date": "2023-03-31",
+      "cpu_usage": 11.613682977,
+      "ram_usage": 41.3379551474,
+      "diskio_usage": 1.7809788339
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time. It shows fluctuations in resource usage, with a noticeable drop in CPU usage from March 17th to March 31st.",
+      "insight_1": "1. Significant drop in CPU usage: There is a noticeable decrease in CPU usage starting from 223-3-17, with the lowest usage recorded on 223-3-18 at 1.17%. This could indicate a change in the user's activity or a possible issue with the computer.\n\n2. Consistently high RAM usage: Throughout the month, the RAM usage remains relatively high, ranging between 41.34% and 65.28%. This suggests that the user is consistently running memory-intensive applications or has limited available RAM.\n\n3. Disk IO usage remains stable: The disk IO usage remains fairly stable throughout the month, with a range between 1.32% and 1.94%. This indicates that the user's disk activity is consistent and not experiencing any significant fluctuations.",
+      "insight_2": "1. There is a significant drop in CPU usage from 58.77% on 223-3-17 to 1.17% on 223-3-18, which is a decrease of 48.6%.\n2. RAM usage also experiences a considerable drop from 61.61% on 223-3-17 to 42.62% on 223-3-18, a decrease of 18.99%.\n3. Disk IO usage shows an unusual increase from 1.33 on 223-3-19 to 1.83 on 223-3-3, despite the CPU and RAM usage remaining relatively low during this period."
+    }
+  ]
+}

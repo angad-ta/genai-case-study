@@ -1,0 +1,107 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 15.903179163,
+      "ram_usage": 79.8447682456,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 18.2784451593,
+      "ram_usage": 85.0568745895,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 16.5015654678,
+      "ram_usage": 83.9653534489,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-11",
+      "cpu_usage": 19.2030119128,
+      "ram_usage": 87.8741777403,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 17.4271407869,
+      "ram_usage": 85.9668384211,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 19.4561316732,
+      "ram_usage": 84.8173325948,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 18.2133135497,
+      "ram_usage": 88.3574114368,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 20.6138009617,
+      "ram_usage": 87.0902177366,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 11.9123445895,
+      "ram_usage": 88.400967669,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 13.4190793697,
+      "ram_usage": 86.6121207929,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 18.3027840976,
+      "ram_usage": 85.4398980385,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 12.5209001421,
+      "ram_usage": 81.9957482299,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 12.1719831498,
+      "ram_usage": 86.5425844032,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-28",
+      "cpu_usage": 34.0319905183,
+      "ram_usage": 90.2360271067,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 21.0350245424,
+      "ram_usage": 87.4287364672,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 16.6554942971,
+      "ram_usage": 87.1748743216,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 222. It shows an increase in CPU usage on August 28th and generally high RAM usage throughout the period.",
+      "insight_1": "1. High RAM Usage: The RAM usage for the user with serial number 'e1dd676b2b' is consistently high, ranging from 79.84% to 9.24% throughout the given dates. This indicates that the user's computer might be running memory-intensive applications or facing memory management issues.\n\n2. CPU Usage Spike: On 222-8-28, there is a significant spike in CPU usage at 34.3%, which is much higher than the average CPU usage on other days. This could be due to a specific task or application that required more processing power on that day.\n\n3. Missing Disk IO Usage Data: The diskio_usage data is missing (NaN) for all the entries in the table. This information is crucial for understanding the overall performance of the computer and should be collected and analyzed to provide a complete picture of the system's usage.",
+      "insight_2": "1. Missing Data: The 'diskio_usage' column has missing (NaN) values for all the entries in the dataset. This indicates that there might be an issue with data collection or recording for this particular field.\n\n2. CPU Usage Spike: On 222-8-28, there is a significant spike in CPU usage (34.3%) compared to the other days in the dataset. This could indicate an unusual event or increased workload on that day.\n\n3. Inconsistent Date Intervals: The date intervals in the dataset are not consistent. There are gaps between some dates, such as between 222-8-12 and 222-8-16, and between 222-8-25 and 222-8-28. This inconsistency might affect the analysis of trends or patterns in the data."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+The data contains information about a user's computer CPU usage over a period of time. It shows a general increasing trend in CPU usage from 16.83% on 7/9/222 to 88.86% on 8/5/222.,"1. CPU usage has been consistently increasing over the given period, starting from 16.83% on 7/9/222 and reaching a peak of 99.67% on 8/2/222.
+2. The highest CPU usage was recorded on 8/2/222 with 99.67% usage, followed by 8/3/222 with 98.88% usage, and 8/1/222 with 93.79% usage.
+3. The user experienced a significant increase in CPU usage between 7/22/222 and 7/23/222, with an increase of 5.65 percentage points (from 62.87% to 68.52%).","Based on the provided data, the top 3 aberrations in CPU usage are:
+
+1. The highest CPU usage of 99.67% on 8/2/222.
+2. The second-highest CPU usage of 98.88% on 8/3/222.
+3. The third-highest CPU usage of 93.79% on 8/1/222."

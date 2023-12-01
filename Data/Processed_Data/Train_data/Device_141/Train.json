@@ -1,0 +1,197 @@
+{
+  "Data": [
+    {
+      "date": "2022-08-01",
+      "cpu_usage": 13.9886742187,
+      "ram_usage": 46.9956336339,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-02",
+      "cpu_usage": 63.392736768,
+      "ram_usage": 52.1669999421,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-03",
+      "cpu_usage": 25.7011866348,
+      "ram_usage": 39.1825925652,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-04",
+      "cpu_usage": 16.9349219001,
+      "ram_usage": 38.6810273446,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-05",
+      "cpu_usage": 45.2605559119,
+      "ram_usage": 57.3190620119,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-06",
+      "cpu_usage": 25.8433382795,
+      "ram_usage": 47.6207125666,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-07",
+      "cpu_usage": 17.7172843301,
+      "ram_usage": 53.4633232944,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-08",
+      "cpu_usage": 26.1502724868,
+      "ram_usage": 53.8736144551,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-09",
+      "cpu_usage": 9.4564440234,
+      "ram_usage": 33.4849840214,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-10",
+      "cpu_usage": 35.0359652102,
+      "ram_usage": 42.3249593032,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-11",
+      "cpu_usage": 67.2970470238,
+      "ram_usage": 47.5811560295,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-12",
+      "cpu_usage": 28.1491197602,
+      "ram_usage": 43.450939646,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-13",
+      "cpu_usage": 3.8003375182,
+      "ram_usage": 36.7418102264,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-14",
+      "cpu_usage": 1.7974178626,
+      "ram_usage": 24.2586471766,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-15",
+      "cpu_usage": 16.9990972226,
+      "ram_usage": 52.24004824,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-16",
+      "cpu_usage": 31.9271551447,
+      "ram_usage": 54.7415662149,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-17",
+      "cpu_usage": 38.2645079216,
+      "ram_usage": 54.4670052007,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-18",
+      "cpu_usage": 49.6850550666,
+      "ram_usage": 54.7128930341,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-19",
+      "cpu_usage": 63.8098987038,
+      "ram_usage": 55.6768566602,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-20",
+      "cpu_usage": 38.5548535312,
+      "ram_usage": 41.2683363063,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-21",
+      "cpu_usage": 3.9238083129,
+      "ram_usage": 31.0568117231,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-22",
+      "cpu_usage": 32.9837444017,
+      "ram_usage": 46.0295988474,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-23",
+      "cpu_usage": 58.8172481087,
+      "ram_usage": 67.0586452428,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-24",
+      "cpu_usage": 7.4028805469,
+      "ram_usage": 38.8700276043,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-25",
+      "cpu_usage": 4.8058813458,
+      "ram_usage": 33.6287699743,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-26",
+      "cpu_usage": 28.2291482575,
+      "ram_usage": 36.8604712607,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-27",
+      "cpu_usage": 23.4008323584,
+      "ram_usage": 32.3243198952,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-28",
+      "cpu_usage": 2.06913666,
+      "ram_usage": 30.4501110511,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-29",
+      "cpu_usage": 10.7482713394,
+      "ram_usage": 34.7241814189,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-30",
+      "cpu_usage": 34.3591956376,
+      "ram_usage": 43.8876030174,
+      "diskio_usage": null
+    },
+    {
+      "date": "2022-08-31",
+      "cpu_usage": 13.3195790348,
+      "ram_usage": 34.9282172916,
+      "diskio_usage": null
+    }
+  ],
+  "Insights": [
+    {
+      "insight_0": "The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage for each day in August 222. It shows varying levels of resource usage, with some days having higher CPU and RAM usage than others.",
+      "insight_1": "1. The highest CPU usage was recorded on August 11th, 222, with a value of 67.29747. This indicates that the computer was under heavy load on this day, possibly running resource-intensive tasks.\n\n2. The highest RAM usage occurred on August 23rd, 222, with a value of 67.58645. This suggests that the computer was running applications with high memory requirements on this day.\n\n3. The lowest CPU and RAM usage were observed on August 14th, 222, with values of 1.797418 and 24.258647, respectively. This indicates that the computer was likely idle or running very light tasks on this day.\n\nNote: The diskio_usage data is missing (NaN) for all the entries, so no insights can be derived from this field.",
+      "insight_2": "1. The diskio_usage column has no data (NaN) for all the entries in the dataset. This indicates that there might be an issue with data collection or reporting for this particular metric.\n\n2. The CPU usage shows significant fluctuations, with the highest value being 67.29747% on 222-8-11 and the lowest value being 1.797418% on 222-8-14. This could indicate inconsistent computer usage or potential performance issues.\n\n3. The RAM usage also varies considerably, with the highest value being 67.58645% on 222-8-23 and the lowest value being 24.258647% on 222-8-14. This could be due to different types of applications being used or varying workload demands on the computer."
+    }
+  ]
+}

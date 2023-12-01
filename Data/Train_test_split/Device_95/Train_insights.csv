@@ -1,0 +1,8 @@
+insight_0,insight_1,insight_2
+"The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time. It shows varying levels of resource usage, with some days having higher CPU and RAM usage than others.","1. CPU usage shows an increasing trend over the period, with the highest usage recorded on 223-3-17 at 71.16%. This indicates that the computer's processing power is being utilized more over time.
+
+2. RAM usage also shows an increasing trend, reaching its peak on 223-3-1 at 62.84%. This suggests that the computer is handling more memory-intensive tasks or running more applications simultaneously as time progresses.
+
+3. Disk IO usage is relatively low compared to CPU and RAM usage, with the highest value recorded on 223-3-27 at 4.91%. However, it is worth noting that there is a significant spike in disk IO usage between 223-3-9 and 223-3-1, and again between 223-3-26 and 223-3-27. This could indicate occasional heavy disk activity, such as large file transfers or software installations.","1. Highest CPU usage: On 223-3-17, the CPU usage reached its peak at 71.16259.
+2. Highest RAM usage: On 223-3-1, the RAM usage was at its highest at 62.837363.
+3. Highest Disk IO usage: On 223-3-27, the disk IO usage reached its maximum value of 4.9992."
