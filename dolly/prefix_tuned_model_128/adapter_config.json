@@ -1,0 +1,15 @@
+{
+  "auto_mapping": null,
+  "base_model_name_or_path": "databricks/dolly-v2-3b",
+  "encoder_hidden_size": 2560,
+  "inference_mode": true,
+  "num_attention_heads": 32,
+  "num_layers": 32,
+  "num_transformer_submodules": 1,
+  "num_virtual_tokens": 20,
+  "peft_type": "PREFIX_TUNING",
+  "prefix_projection": false,
+  "revision": null,
+  "task_type": "CAUSAL_LM",
+  "token_dim": 2560
+}
